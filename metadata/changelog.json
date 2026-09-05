@@ -17287,12 +17287,36 @@
       {
         "newId": "person_slipping",
         "by": "@quincylvania",
-        "inspo": "person_slipping_down_cliff"
+        "inspo": "person_slipping_on_cliff"
+      },
+      {
+        "oldId": "person_slipping_down_cliff",
+        "newId": "person_slipping_on_cliff"
+      },
+      {
+        "oldId": "person_slipping_down_cliff_into_water",
+        "newId": "person_slipping_on_cliff_into_water"
+      },
+      {
+        "oldId": "person_slipping_down_ramp",
+        "newId": "person_slipping_on_ramp"
+      },
+      {
+        "oldId": "person_slipping_down_steps",
+        "newId": "person_slipping_on_steps"
       },
       {
         "newId": "person_sliding",
         "by": "@quincylvania",
-        "inspo": "person_sliding_down_cliff"
+        "inspo": "person_sliding_on_cliff"
+      },
+      {
+        "oldId": "person_sliding_down_cliff",
+        "newId": "person_sliding_on_cliff"
+      },
+      {
+        "oldId": "person_sliding_down_cliff_into_water",
+        "newId": "person_sliding_on_cliff_into_water"
       },
       {
         "oldId": "ahimsa_hand_outline",
