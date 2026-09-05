@@ -20291,6 +20291,10 @@
         "newId": "noodle_bowl_and_chopsticks_with_noodles",
         "edit": "flip",
         "by": "@quincylvania"
+      },
+      {
+        "oldId": "golf_green",
+        "newId": "flagstick_with_pennant_in_hole_on_golf_green"
       }
     ]
   }
