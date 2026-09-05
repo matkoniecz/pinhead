@@ -18539,11 +18539,11 @@
         "issue": "365"
       },
       {
-        "newId": "shopping_bag_with_music_notes_eighth",
+        "newId": "shopping_bag_with_eighth_notes",
         "by": "@quincylvania",
         "inspo": [
           "shopping_bag",
-          "music_notes_eighth"
+          "eighth_notes"
         ],
         "issue": "365"
       },
@@ -18792,11 +18792,11 @@
         ]
       },
       {
-        "newId": "briefcase_with_music_notes_eighth",
+        "newId": "briefcase_with_eighth_notes",
         "by": "@quincylvania",
         "inspo": [
           "briefcase",
-          "music_notes_eighth"
+          "eighth_notes"
         ]
       },
       {
@@ -20319,6 +20319,26 @@
       {
         "oldId": "vertical_slot",
         "newId": "slot_vertical"
+      },
+      {
+        "oldId": "music_notes_eighth",
+        "newId": "eighth_notes"
+      },
+      {
+        "oldId": "music_notes_sixteenth",
+        "newId": "sixteenth_notes"
+      },
+      {
+        "oldId": "music_note_with_optical_disc",
+        "newId": "quarter_note_with_optical_disc"
+      },
+      {
+        "oldId": "palette_with_music_note",
+        "newId": "palette_with_quarter_note"
+      },
+      {
+        "oldId": "book_with_music_notes_eighth",
+        "newId": "book_with_eighth_notes"
       },
       {
         "oldId": "spiky_fish_with_x",
