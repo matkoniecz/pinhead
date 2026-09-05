@@ -20383,6 +20383,14 @@
       {
         "oldId": "golf_green",
         "newId": "flagstick_with_pennant_in_hole_on_golf_green"
+      },
+      {
+        "oldId": "flag_checkered",
+        "newId": "checkered_flag_on_flag_handle"
+      },
+      {
+        "oldId": "flag_above_railway_track",
+        "newId": "flag_on_flag_handle_above_railway_track"
       }
     ]
   }
