@@ -20293,6 +20293,34 @@
         "by": "@quincylvania"
       },
       {
+        "oldId": "three_dot_horizontal_line",
+        "newId": "three_dots_horizontal"
+      },
+      {
+        "oldId": "three_dot_horizontal_line_in_rectangle",
+        "newId": "three_dots_horizontal_in_rectangle"
+      },
+      {
+        "oldId": "two_dot_horizontal_line_in_rectangle",
+        "newId": "two_dots_horizontal_in_rectangle"
+      },
+      {
+        "oldId": "three_dot_vertical_line",
+        "newId": "three_dots_vertical"
+      },
+      {
+        "oldId": "three_dot_vertical_line_in_rectangle",
+        "newId": "three_dots_vertical_in_rectangle"
+      },
+      {
+        "oldId": "two_dot_vertical_line_in_rectangle",
+        "newId": "two_dots_vertical_in_rectangle"
+      },
+      {
+        "oldId": "vertical_slot",
+        "newId": "slot_vertical"
+      },
+      {
         "oldId": "golf_green",
         "newId": "flagstick_with_pennant_in_hole_on_golf_green"
       }
