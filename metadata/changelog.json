@@ -20389,6 +20389,10 @@
         "newId": "book_with_eighth_notes"
       },
       {
+        "oldId": "spring_rider",
+        "newId": "horse_spring_rider"
+      },
+      {
         "oldId": "spiky_fish_with_x",
         "newId": "spiky_fish_under_x"
       },
