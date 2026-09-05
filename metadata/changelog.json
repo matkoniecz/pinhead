@@ -20301,6 +20301,10 @@
         "newId": "three_people_standing_in_rectangle_outline_under_arrow_up_beside_arrow_down"
       },
       {
+        "oldId": "jail_door",
+        "newId": "barred_door"
+      },
+      {
         "oldId": "three_dot_horizontal_line",
         "newId": "three_dots_horizontal"
       },
