@@ -20321,6 +20321,10 @@
         "newId": "slot_vertical"
       },
       {
+        "oldId": "spiky_fish_with_x",
+        "newId": "spiky_fish_under_x"
+      },
+      {
         "oldId": "golf_green",
         "newId": "flagstick_with_pennant_in_hole_on_golf_green"
       }
