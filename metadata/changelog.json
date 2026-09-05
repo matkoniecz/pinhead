@@ -19156,7 +19156,11 @@
         "inspo": "person_wearing_helmet_paddling_raft_on_water"
       },
       {
-        "newId": "hand_reaching_down_toward_water",
+        "oldId": "hand_reaching_down_toward_rough_surface",
+        "newId": "hand_reaching_down_to_rough_surface"
+      },
+      {
+        "newId": "hand_reaching_down_to_water",
         "by": "@quincylvania",
         "inspo": [
           "water",
