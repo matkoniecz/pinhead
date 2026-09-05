@@ -20393,6 +20393,18 @@
         "newId": "horse_spring_rider"
       },
       {
+        "oldId": "railway_cable_track",
+        "newId": "cable_railway_track"
+      },
+      {
+        "oldId": "railway_track_mini",
+        "newId": "miniature_railway_track"
+      },
+      {
+        "oldId": "railway_track_narrow_gauge",
+        "newId": "narrow_gauge_railway_track"
+      },
+      {
         "oldId": "spiky_fish_with_x",
         "newId": "spiky_fish_under_x"
       },
