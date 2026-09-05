@@ -20403,6 +20403,10 @@
       {
         "oldId": "flag_above_railway_track",
         "newId": "flag_on_flag_handle_above_railway_track"
+      },
+      {
+        "oldId": "chopsticks_crossed",
+        "newId": "crossed_chopsticks"
       }
     ]
   }
