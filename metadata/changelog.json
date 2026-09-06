@@ -2437,6 +2437,7 @@
         "newId": "gasoline_pump",
         "src": "maki",
         "importBy": "@quincylvania",
+        "char": "⛽",
         "americana": "poi_fuel",
         "maki": "fuel",
         "nps": "gas-station",
@@ -13825,8 +13826,7 @@
       {
         "oldId": "gasoline_pump",
         "newId": "gasoline_pump",
-        "by": "@quincylvania",
-        "char": "⛽"
+        "by": "@quincylvania"
       },
       {
         "newId": "gasoline_pump_with_d",
