@@ -132,6 +132,9 @@
   "atm": {
     "commons": "ATM icons"
   },
+  "atom": {
+    "super": "physics"
+  },
   "atv": {
     "super": [
       "motor_vehicle",
@@ -343,7 +346,11 @@
     "super": "food"
   },
   "body_part": {
-    "commons": "Plain black SVG medical icons"
+    "commons": "Plain black SVG medical icons",
+    "super": "medical_science"
+  },
+  "bohr_atomic_model": {
+    "super": "atom"
   },
   "bollard": {
     "super": "barrier"
@@ -640,7 +647,7 @@
   },
   "cheese_wedge_hat": {
     "super": [
-      "cheese",
+      "cheese_wedge",
       "hat"
     ]
   },
@@ -984,6 +991,9 @@
   "diving_mask": {
     "super": "mask"
   },
+  "dna": {
+    "super": "microbiology"
+  },
   "dog": {
     "commons": "Plain black SVG dog icons",
     "super": "canine"
@@ -1138,16 +1148,16 @@
     "super": "eye"
   },
   "eyeglasses": {
-    "super": "eyewear"
+    "super": [
+      "eyewear",
+      "optical_instrument"
+    ]
   },
   "eyelash": {
     "super": "eye"
   },
   "eyewear": {
-    "super": [
-      "headwear",
-      "eye"
-    ]
+    "super": "headwear"
   },
   "f22_raptor_fighter_jet": {
     "super": "fighter_jet_plane"
@@ -1888,7 +1898,12 @@
   "meat": {
     "super": "food"
   },
-  "medical_device": {},
+  "medical_device": {
+    "super": "medical_science"
+  },
+  "medical_science": {
+    "super": "science"
+  },
   "megaphone": {
     "super": "speaker"
   },
@@ -1906,6 +1921,9 @@
   },
   "michigan_upper_peninsula": {
     "super": "michigan"
+  },
+  "microbiology": {
+    "super": "medical_science"
   },
   "microphone": {
     "super": "audio_device"
@@ -2212,6 +2230,9 @@
     "match": "^phone_bar.*",
     "super": "signal_indicator"
   },
+  "physics": {
+    "super": "science"
+  },
   "piano": {
     "super": "musical_instrument"
   },
@@ -2223,6 +2244,9 @@
   },
   "pickup_truck": {
     "super": "truck"
+  },
+  "pill": {
+    "super": "medical_science"
   },
   "pill_bottle": {
     "super": "bottle"
