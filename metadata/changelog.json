@@ -20221,6 +20221,12 @@
         "issue": "307"
       },
       {
+        "oldId": "quay",
+        "newId": "rectangle_beside_waters",
+        "by": "@quincylvania",
+        "issue": "135"
+      },
+      {
         "newId": "pixel_international_wheelchair_symbol",
         "by": "@quincylvania",
         "inspo": "international_wheelchair_symbol"
