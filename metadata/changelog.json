@@ -1306,6 +1306,7 @@
         "newId": "cindercone_volcano_erupting",
         "src": "maki",
         "importBy": "@quincylvania",
+        "char": "🌋",
         "maki": "volcano"
       },
       {
@@ -7265,6 +7266,7 @@
         "by": "@quincylvania",
         "inspo": "memorial_stone_with_inscription",
         "issue": "4",
+        "char": "🪦",
         "americana": "poi_gravestone"
       },
       {
@@ -9257,7 +9259,8 @@
       {
         "newId": "crystal_ball_on_sphere_stand",
         "by": "@ooosssay",
-        "pr": "106"
+        "pr": "106",
+        "char": "🔮"
       },
       {
         "newId": "piano_keys",
@@ -12724,6 +12727,7 @@
         "src": "healthicons",
         "importBy": "@quincylvania",
         "issue": "107",
+        "char": "🪄",
         "healthicons": "symbols/magic-wand"
       },
       {
