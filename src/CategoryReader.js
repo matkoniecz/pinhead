@@ -3,18 +3,151 @@ const pluralize =
     ? (await import("pluralize")).default
     : window.pluralize;
 
-const prefixes = "anime_|cartoon_|pixel_";
-const suffixes =
-  "_outline|_vertical|_horizontal|_diagonal|_tall|_squat|_filled|_left|_right|_up|_down|_top_left|_top_right|_bottom_left|_bottom_right|_up_down|_left_right|_top|_narrow|_wide|_head|_front|_profile|_stack";
-const iconNamePartSeparator =
-  /_with_|_on_|_in_|_onto_|_into_|_and_|_under_|_over_|_above_|_beside_|_between_|_atop_|_within_|_behind_|_from_|_to_|_toward_|_wearing_|_holding_|_carrying_|_crossing_|_dragging_|_aiming_|_boarding_|_riding_|_paddling_|_driving_|_jockeying_|_piloting_|_using_/;
+const prefixes = [
+  "anime",
+  "cartoon",
+  "pixel",
+  "crossed",
+  "double",
+  "triple",
+  "one",
+  "two",
+  "three",
+  "four",
+  "five",
+  "six",
+];
+const suffixes = [
+  "bottom_left",
+  "bottom_right",
+  "diagonal",
+  "down",
+  "downhill",
+  "filled",
+  "front",
+  "head",
+  "horizontal",
+  "left_right",
+  "left",
+  "narrow",
+  "outline",
+  "outward",
+  "profile",
+  "right",
+  "squat",
+  "stack",
+  "tall",
+  "top_left",
+  "top_right",
+  "top",
+  "up_down",
+  "up",
+  "uphill",
+  "vertical",
+  "wide",
+];
+const prepositions = [
+  "above",
+  "and",
+  "at",
+  "atop",
+  "behind",
+  "beside",
+  "between",
+  "from",
+  "in",
+  "into",
+  "on",
+  "onto",
+  "over",
+  "to",
+  "under",
+  "with",
+  "within",
+];
+const relationalVerbs = [
+  "aiming",
+  "boarding",
+  "carrying",
+  "crossing",
+  "dragging",
+  "driving",
+  "dropping",
+  "holding",
+  "jockeying",
+  "kicking",
+  "massaging",
+  "paddling",
+  "piloting",
+  "racing",
+  "riding",
+  "shoveling",
+  "spiking",
+  "swinging",
+  "using",
+  "wearing",
+];
+// These are words that modify the state of a base icon, e.g. "person_standing", "plane_taxiing", or "volcano_erupting"
+const stateVerbs = [
+  "ascending",
+  "balancing",
+  "climbing",
+  "crawling",
+  "cross_country_skiing",
+  "crouching",
+  "cruising",
+  "dancing",
+  "descending",
+  "diving",
+  "erupting",
+  "falling",
+  "fighting",
+  "flying",
+  "front_kicking",
+  "high_stepping",
+  "ice_skating",
+  "inline_skating",
+  "jumping",
+  "kneeling",
+  "leaping",
+  "pointing",
+  "praying",
+  "reaching",
+  "rearing",
+  "running",
+  "shushing",
+  "sitting",
+  "ski_jumping",
+  "skiing",
+  "sledding",
+  "sleeping",
+  "sliding",
+  "slipping",
+  "snowboarding",
+  "snowshoeing",
+  "speaking",
+  "squatting",
+  "standing",
+  "swimming",
+  "taxiing",
+  "tow_skiing",
+  "vomiting",
+  "walking",
+  "wind_surfing",
+];
 
-function stringArray(value) {
-  return typeof value === "string" ? [value] : [...value];
-}
+const iconNamePartSeparators = prepositions.concat(relationalVerbs);
+const iconNamePartSeparator = new RegExp(
+  iconNamePartSeparators.map((p) => "_" + p + "_").join("|"),
+  "g",
+);
 
 export function deconstructIconName(name) {
   return name.split(iconNamePartSeparator);
+}
+
+function stringArray(value) {
+  return typeof value === "string" ? [value] : [...value];
 }
 
 export class CategoryReader {
@@ -42,13 +175,20 @@ export class CategoryReader {
       }
     }
 
+    const prefixexPart = prefixes.map((p) => p + "_").join("|");
+    const suffixesPart = suffixes.map((p) => "_" + p).join("|");
+    const stateSuffixesPart = relationalVerbs
+      .concat(stateVerbs)
+      .map((p) => "_" + p)
+      .join("|");
+
     for (const catId in categories) {
       categories[catId].id = catId;
       if (categories[catId].match) {
         categories[catId].regex = new RegExp(categories[catId].match, "g");
       } else {
         categories[catId].regex = new RegExp(
-          `^(${prefixes})?(${pluralize.singular(catId)}|${pluralize.plural(catId)})(${suffixes})*$`,
+          `^(${prefixexPart})?(${pluralize.singular(catId)}|${pluralize.plural(catId)})(${stateSuffixesPart})*(${suffixesPart})*$`,
           "g",
         );
       }
