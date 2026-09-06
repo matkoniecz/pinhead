@@ -158,7 +158,7 @@ export class CategoryReader {
 
     for (const iconId of iconIds) {
       const parts = deconstructIconName(iconId).map((part) =>
-        pluralize.singular(part),
+        part.length === 1 ? part : pluralize.singular(part),
       );
       this.partsByIconId[iconId] = parts;
       for (const part of parts) {
@@ -187,8 +187,12 @@ export class CategoryReader {
       if (categories[catId].match) {
         categories[catId].regex = new RegExp(categories[catId].match, "g");
       } else {
+        const mainPart =
+          catId.length === 1
+            ? catId
+            : `${pluralize.singular(catId)}|${pluralize.plural(catId)}`;
         categories[catId].regex = new RegExp(
-          `^(${prefixexPart})?(${pluralize.singular(catId)}|${pluralize.plural(catId)})(${stateSuffixesPart})*(${suffixesPart})*$`,
+          `^(${prefixexPart})?(${mainPart})(${stateSuffixesPart})*(${suffixesPart})*$`,
           "g",
         );
       }
