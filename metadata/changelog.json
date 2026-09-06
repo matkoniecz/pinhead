@@ -16965,6 +16965,14 @@
         ]
       },
       {
+        "newId": "crossed_bones",
+        "by": "@quincylvania",
+        "inspo": [
+          "bone",
+          "skull_above_crossed_bones"
+        ]
+      },
+      {
         "oldId": "japanese_teacup_with_steam",
         "newId": "japanese_teacup_with_steam",
         "edit": "minor",
