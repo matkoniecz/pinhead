@@ -2430,7 +2430,6 @@
         "newId": "gas_flame",
         "src": "temaki",
         "importBy": "@quincylvania",
-        "char": "🔥",
         "temaki": "gas"
       },
       {
