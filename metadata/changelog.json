@@ -20321,6 +20321,74 @@
         "by": "@quincylvania"
       },
       {
+        "oldId": "person_wearing_scuba_gear_diving",
+        "newId": "person_diving_wearing_scuba_gear"
+      },
+      {
+        "oldId": "person_wearing_scuba_gear_diving_under_water",
+        "newId": "person_diving_wearing_scuba_gear_under_water"
+      },
+      {
+        "oldId": "person_wearing_backpack_scrambling_up_cliff",
+        "newId": "person_scrambling_on_cliff_wearing_backpack"
+      },
+      {
+        "oldId": "person_wearing_backpack_walking_with_hiking_pole_in_gable_roofed_shelter",
+        "newId": "person_walking_with_hiking_pole_wearing_backpack_in_gable_roofed_shelter"
+      },
+      {
+        "oldId": "person_wearing_backpack_walking_with_hiking_pole",
+        "newId": "person_walking_with_hiking_pole_wearing_backpack"
+      },
+      {
+        "oldId": "person_wearing_backpack_and_headlamp_crouching",
+        "newId": "person_crouching_wearing_backpack_and_headlamp"
+      },
+      {
+        "oldId": "person_walking_bicycle",
+        "newId": "person_walking_with_bicycle"
+      },
+      {
+        "oldId": "person_wearing_martial_arts_belt_front_kicking",
+        "newId": "person_front_kicking_wearing_martial_arts_belt"
+      },
+      {
+        "oldId": "person_bicycle_racing",
+        "newId": "person_racing_bicycle"
+      },
+      {
+        "oldId": "person_playing_tennis",
+        "newId": "person_swinging_racket_at_ball"
+      },
+      {
+        "oldId": "person_running_after_person",
+        "newId": "people_running"
+      },
+      {
+        "oldId": "person_baseball_batting",
+        "newId": "person_holding_baseball_bat"
+      },
+      {
+        "oldId": "person_cricket_batting_at_cricket_ball",
+        "newId": "person_swinging_cricket_bat_at_ball"
+      },
+      {
+        "oldId": "person_jockeying_racehorse",
+        "newId": "person_jockeying_horse_running"
+      },
+      {
+        "oldId": "person_kneeling_and_praying",
+        "newId": "person_kneeling_praying"
+      },
+      {
+        "oldId": "person_playing_soccer",
+        "newId": "person_running_kicking_ball"
+      },
+      {
+        "oldId": "person_spiking_volleyball",
+        "newId": "person_spiking_ball"
+      },
+      {
         "oldId": "elevator_rider",
         "newId": "person_standing_in_rectangle_outline_under_arrow_up_beside_arrow_down"
       },
