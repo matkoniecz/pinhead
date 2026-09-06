@@ -6443,8 +6443,8 @@
         "newId": "trumpet",
         "src": "osmcarto",
         "importBy": "@quincylvania",
-        "osmcarto": "shop/musical_instrument",
         "char": "🎺",
+        "osmcarto": "shop/musical_instrument"
       },
       {
         "newId": "tshirt",
