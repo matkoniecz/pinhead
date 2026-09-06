@@ -12688,14 +12688,14 @@
           "@quincylvania"
         ],
         "inspo": "trophy_with_star",
-        "pr": "185"
+        "pr": "185",
+        "char": "🏆"
       },
       {
         "newId": "trophy_with_star",
         "by": "@ooosssay",
         "inspo": "star",
-        "pr": "185",
-        "char": "🏆"
+        "pr": "185"
       },
       {
         "newId": "banana",
