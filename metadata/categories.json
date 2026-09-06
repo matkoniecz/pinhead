@@ -20,6 +20,9 @@
   "adit": {
     "super": "underground_infrastructure"
   },
+  "aerialway_pole": {
+    "super": "pole"
+  },
   "ahimsa_hand": {
     "super": "religious_symbol"
   },
@@ -34,7 +37,13 @@
     "super": "creature"
   },
   "american_football": {
-    "super": "sport_ball"
+    "super": "ball"
+  },
+  "ampersand": {
+    "super": "typographical_symbol"
+  },
+  "amphitheater": {
+    "super": "theater"
   },
   "amusement_ride": {
     "super": "vehicle"
@@ -83,7 +92,10 @@
     "super": "fruit"
   },
   "apple_core": {
-    "super": "apple"
+    "super": [
+      "apple",
+      "busted"
+    ]
   },
   "arch_gatway": {
     "super": [
@@ -112,13 +124,19 @@
     "super": "hat"
   },
   "at_sign": {
-    "super": "a"
+    "super": [
+      "a",
+      "typographical_symbol"
+    ]
   },
   "atm": {
     "commons": "ATM icons"
   },
   "atv": {
-    "super": "motor_vehicle"
+    "super": [
+      "motor_vehicle",
+      "wheeled_vehicle"
+    ]
   },
   "audio_device": {
     "super": "electronic_device"
@@ -150,6 +168,9 @@
   "baked_good": {
     "super": "food"
   },
+  "ball": {
+    "super": "sport_equipment"
+  },
   "ball_tip_antenna": {
     "super": "antenna"
   },
@@ -180,11 +201,26 @@
       "storage_structure"
     ]
   },
+  "barred_door": {
+    "super": [
+      "door",
+      "barred"
+    ]
+  },
+  "barred_window": {
+    "super": [
+      "window",
+      "barred"
+    ]
+  },
   "barrel": {
     "super": "container"
   },
+  "barricade": {
+    "super": "barrier"
+  },
   "baseball": {
-    "super": "sport_ball"
+    "super": "ball"
   },
   "baseball_bat": {
     "super": [
@@ -199,7 +235,7 @@
     "super": "swing"
   },
   "basketball": {
-    "super": "sport_ball"
+    "super": "ball"
   },
   "bathroom_scale": {
     "super": "electronic_device"
@@ -246,7 +282,7 @@
   },
   "bicycle": {
     "commons": "Plain black SVG bicycle icons",
-    "super": "vehicle"
+    "super": "wheeled_vehicle"
   },
   "bicycle_barrier": {
     "super": "barrier"
@@ -274,7 +310,10 @@
   },
   "bird": {
     "commons": "Plain black SVG bird icons",
-    "super": "animal"
+    "super": [
+      "animal",
+      "winged_creature"
+    ]
   },
   "bison": {
     "super": "ungulate"
@@ -282,11 +321,20 @@
   "bladder": {
     "super": "internal_organ"
   },
+  "bladed_weapon": {
+    "super": "weapon"
+  },
   "bleachers": {
     "super": "seat"
   },
   "blood_cell": {
     "super": "microbiology"
+  },
+  "board": {
+    "super": [
+      "vehicle",
+      "sport_equipment"
+    ]
   },
   "boat": {
     "super": "watercraft"
@@ -334,7 +382,7 @@
   },
   "bowling_ball": {
     "super": [
-      "sport_ball",
+      "ball",
       "bowling"
     ]
   },
@@ -409,6 +457,9 @@
   "bullet_train": {
     "super": "train"
   },
+  "bulletin_board": {
+    "super": "sign"
+  },
   "bundesadler": {
     "super": "eagle"
   },
@@ -426,7 +477,10 @@
   },
   "bus": {
     "commons": "Plain black SVG bus icons",
-    "super": "transit_vehicle"
+    "super": [
+      "transit_vehicle",
+      "wheeled_vehicle"
+    ]
   },
   "bust": {
     "super": "statue"
@@ -436,6 +490,9 @@
   },
   "button": {
     "super": "fastener"
+  },
+  "cable_railway_track": {
+    "super": "railway_track"
   },
   "cactus": {
     "super": "plant"
@@ -484,7 +541,10 @@
   },
   "car": {
     "commons": "Plain black SVG automobile icons",
-    "super": "motor_vehicle"
+    "super": [
+      "motor_vehicle",
+      "wheeled_vehicle"
+    ]
   },
   "car_battery": {
     "super": [
@@ -492,9 +552,7 @@
       "battery"
     ]
   },
-  "car_part": {
-    "super": "car"
-  },
+  "car_part": {},
   "car_wheel": {
     "super": [
       "wheel",
@@ -513,11 +571,14 @@
       "horse"
     ]
   },
+  "carpet": {
+    "super": "flooring"
+  },
   "carriage": {
     "super": "trailer"
   },
   "cart": {
-    "super": "vehicle"
+    "super": "wheeled_vehicle"
   },
   "cartoon": {
     "match": "^cartoon_.+"
@@ -568,6 +629,9 @@
   "charging_station": {
     "super": "fuel_station"
   },
+  "checkered_flag": {
+    "super": "flag"
+  },
   "cheese": {
     "super": "food"
   },
@@ -600,6 +664,9 @@
   },
   "chest_of_drawers": {
     "super": "furniture"
+  },
+  "chevron": {
+    "super": "arrow"
   },
   "chicane_arrow": {
     "super": "arrow"
@@ -647,7 +714,7 @@
     "super": "labyrinth"
   },
   "circular_pill": {
-    "match": "^(one_|two_|three_|four_|five_|six_|seven_|eight_|nine_|ten_|eleven_|twelve_)?circular_pill(s)?$"
+    "super": "pill"
   },
   "city_building": {
     "super": "building"
@@ -657,6 +724,9 @@
       "building",
       "gate"
     ]
+  },
+  "clapperboard": {
+    "super": "movie"
   },
   "classical_building": {
     "super": [
@@ -715,11 +785,20 @@
   "coin": {
     "super": "legal_tender"
   },
+  "column_shrine": {
+    "super": "erected_structure"
+  },
   "comb": {
-    "super": "hand_tool"
+    "super": [
+      "hand_tool",
+      "hair_care"
+    ]
   },
   "comedy_mask": {
-    "super": "mask"
+    "super": [
+      "mask",
+      "theater"
+    ]
   },
   "commercial_building": {
     "super": "building"
@@ -755,6 +834,9 @@
     "match": "africa",
     "super": "boundary"
   },
+  "conveyor": {
+    "super": "vehicle"
+  },
   "coral": {
     "super": "marine_animal"
   },
@@ -779,6 +861,12 @@
   "crab": {
     "super": "marine_animal"
   },
+  "crack": {
+    "super": "busted"
+  },
+  "crane": {
+    "super": "erected_structure"
+  },
   "crate": {
     "super": "box"
   },
@@ -790,11 +878,17 @@
     "super": "baked_good"
   },
   "cross": {},
+  "crosshair": {
+    "super": "target"
+  },
   "crowd_of_people": {
     "super": "person"
   },
   "crown": {
     "super": "headwear"
+  },
+  "crystal_ball": {
+    "super": "crystal"
   },
   "cube": {
     "super": "3d_shape"
@@ -813,6 +907,12 @@
     "commons": "Plain black SVG currency icons",
     "super": "money"
   },
+  "curtain": {
+    "super": "window"
+  },
+  "cutlass": {
+    "super": "sword"
+  },
   "cutlery": {
     "super": [
       "hand_tool",
@@ -823,7 +923,7 @@
     "super": "3d_shape"
   },
   "dagger": {
-    "super": "weapon"
+    "super": "bladed_weapon"
   },
   "daisy": {
     "super": "flower"
@@ -888,6 +988,9 @@
     "commons": "Plain black SVG dog icons",
     "super": "canine"
   },
+  "dog_sled": {
+    "super": "sled"
+  },
   "dollar": {
     "commons": "Dollar sign",
     "super": "currency_sign"
@@ -903,12 +1006,6 @@
   },
   "dot": {
     "super": "circle"
-  },
-  "double_mars": {
-    "super": "mars"
-  },
-  "double_venus": {
-    "super": "venus"
   },
   "dove": {
     "super": "bird"
@@ -972,12 +1069,25 @@
   "egg": {
     "super": "food"
   },
+  "eighth_note": {
+    "super": "musical_note"
+  },
+  "electric_appliance": {
+    "super": "electricity"
+  },
+  "electric_power": {
+    "super": "electricity"
+  },
   "electrical_diagram_symbols": {
     "commons": "SVG electrical symbols",
-    "match": "^electrical_.+"
+    "match": "^electrical_.+",
+    "super": "electricity"
   },
   "electronic_device": {
-    "super": "device"
+    "super": [
+      "device",
+      "electricity"
+    ]
   },
   "elephant": {
     "super": "mammal"
@@ -1004,9 +1114,18 @@
   "erected_structure": {
     "super": "infrastructure"
   },
+  "escalator": {
+    "super": [
+      "conveyor",
+      "steps"
+    ]
+  },
   "euro": {
     "commons": "Euro sign",
     "super": "currency_sign"
+  },
+  "exclamation_point": {
+    "super": "punctuation_mark"
   },
   "eye": {
     "commons": "Plain black SVG eye icons",
@@ -1073,7 +1192,13 @@
     "super": "knife"
   },
   "film": {
-    "super": "physical_media"
+    "super": [
+      "physical_media",
+      "movie"
+    ]
+  },
+  "film_movie_projector": {
+    "super": "movie"
   },
   "finger": {
     "super": "hand"
@@ -1083,6 +1208,12 @@
   },
   "fingernail_polished": {
     "super": "fingernail"
+  },
+  "fire_extinguisher": {
+    "super": [
+      "fire",
+      "spray_can"
+    ]
   },
   "firewood": {
     "super": "wood"
@@ -1099,6 +1230,9 @@
   },
   "flag": {
     "commons": "Plain black SVG flag icons"
+  },
+  "flag_handle": {
+    "super": "flag"
   },
   "flagpole": {
     "super": [
@@ -1129,6 +1263,9 @@
   },
   "flintlock_pistol": {
     "super": "pistol"
+  },
+  "floatation_device": {
+    "super": "maritime_device"
   },
   "floodlight": {
     "super": "lamp"
@@ -1302,7 +1439,11 @@
     "super": "weapon"
   },
   "hair_dryer": {
-    "super": "hand_tool"
+    "super": [
+      "hand_tool",
+      "hair_care",
+      "electric_appliance"
+    ]
   },
   "hairy_caterpillar": {
     "super": "insect"
@@ -1346,6 +1487,9 @@
   },
   "hard_candy": {
     "super": "candy"
+  },
+  "hash": {
+    "super": "typographical_symbol"
   },
   "hat": {
     "super": "headwear"
@@ -1407,9 +1551,24 @@
   "horizontal_storage_tank": {
     "super": "storage_tank"
   },
+  "horn_cleat": {
+    "super": [
+      "fastener",
+      "maritime_device"
+    ]
+  },
   "horse": {
     "commons": "Plain black SVG horse icons",
-    "super": "ungulate"
+    "super": [
+      "ungulate",
+      "vehicle"
+    ]
+  },
+  "horse_spring_rider": {
+    "super": [
+      "spring_rider",
+      "horse"
+    ]
   },
   "hospital_h": {
     "super": "h"
@@ -1435,6 +1594,9 @@
   "ichthys": {
     "super": "christian_symbol"
   },
+  "id_card": {
+    "super": "personal_identification"
+  },
   "inclined_information_panel": {
     "super": "sign"
   },
@@ -1445,7 +1607,10 @@
     "super": "i"
   },
   "inline_skate": {
-    "super": "skate"
+    "super": [
+      "skate",
+      "wheeled_vehicle"
+    ]
   },
   "input_device": {
     "super": "device"
@@ -1480,9 +1645,6 @@
       "lantern"
     ]
   },
-  "jail_door": {
-    "super": "door"
-  },
   "japanese_map_symbol": {
     "commons": "SVG map symbols of Japan",
     "match": "^jp_.+"
@@ -1499,6 +1661,12 @@
   "jet_plane": {
     "super": "plane"
   },
+  "jetski": {
+    "super": "motorboat"
+  },
+  "jewel": {
+    "super": "crystal"
+  },
   "jewelry": {
     "super": "clothing"
   },
@@ -1512,7 +1680,10 @@
     "super": "bottle"
   },
   "junk_car": {
-    "super": "car"
+    "super": [
+      "car",
+      "busted"
+    ]
   },
   "kayak": {
     "super": "paddlecraft"
@@ -1557,7 +1728,10 @@
     ]
   },
   "laptop": {
-    "super": "personal_computer"
+    "super": [
+      "personal_computer",
+      "screen"
+    ]
   },
   "latin_cross": {
     "super": "christian_cross"
@@ -1591,7 +1765,16 @@
     "super": "mail"
   },
   "life_jacket": {
-    "super": "clothing"
+    "super": [
+      "clothing",
+      "floatation_device"
+    ]
+  },
+  "life_ring": {
+    "super": "floatation_device"
+  },
+  "lifeguard_stand": {
+    "super": "seat"
   },
   "lift_gate": {
     "super": "gate"
@@ -1684,6 +1867,9 @@
   "maple_leaf": {
     "super": "leaf"
   },
+  "marae": {
+    "super": "building"
+  },
   "marine_animal": {
     "super": "animal"
   },
@@ -1757,6 +1943,12 @@
       "underground_infrastructure"
     ]
   },
+  "miniature_railway_track": {
+    "super": "railway_track"
+  },
+  "minus": {
+    "super": "typographical_symbol"
+  },
   "mobile_phone": {
     "super": "phone"
   },
@@ -1767,7 +1959,10 @@
     "super": "train"
   },
   "mosquito": {
-    "super": "insect"
+    "super": [
+      "insect",
+      "winged_creature"
+    ]
   },
   "motor_scooter": {
     "super": "motorcycle"
@@ -1783,7 +1978,10 @@
   },
   "motorcycle": {
     "commons": "Plain black SVG motorcycle icons",
-    "super": "motor_vehicle"
+    "super": [
+      "motor_vehicle",
+      "wheeled_vehicle"
+    ]
   },
   "mountain": {
     "super": "elevated_landform"
@@ -1803,6 +2001,15 @@
   "multi_character_text": {
     "match": ".+_text$",
     "super": "text"
+  },
+  "musical_instrument": {
+    "super": "music"
+  },
+  "musical_note": {
+    "super": "music"
+  },
+  "narrow_gauge_railway_track": {
+    "super": "railway_track"
   },
   "natural_arch": {
     "super": [
@@ -1866,6 +2073,9 @@
   "optical_disk": {
     "super": "physical_media"
   },
+  "ordnance_survey_benchmark": {
+    "super": "survey_marker"
+  },
   "outstretched_hand": {
     "super": "hand"
   },
@@ -1926,6 +2136,12 @@
   "paperclip": {
     "super": "fastener"
   },
+  "parachute": {
+    "super": [
+      "vehicle",
+      "clothing"
+    ]
+  },
   "parallelogram": {
     "super": "quadrilateral"
   },
@@ -1936,7 +2152,8 @@
     "super": "party_good"
   },
   "passport": {
-    "commons": "Plain black SVG passport icons"
+    "commons": "Plain black SVG passport icons",
+    "super": "personal_identification"
   },
   "patriarchal_cross": {
     "super": "christian_cross"
@@ -1969,15 +2186,17 @@
   "pennon": {
     "super": "pennant"
   },
+  "percent": {
+    "super": "typographical_symbol"
+  },
   "perfume_bottle": {
     "super": "bottle"
   },
   "person": {
-    "commons": "Plain black SVG people icons",
-    "match": "^(person|people)$"
+    "commons": "Plain black SVG people icons"
   },
   "personal_computer": {
-    "super": "screen"
+    "super": "electronic_device"
   },
   "peso": {
     "commons": "Peso sign",
@@ -2017,9 +2236,7 @@
   "pint_glass": {
     "super": "drinking_glass"
   },
-  "pip": {
-    "match": "^(one_|two_|three_|four_|five_|six_|seven_|eight_|nine_|ten_|eleven_|twelve_)?pip(s)?$"
-  },
+  "pip": {},
   "piping": {
     "commons": "Plumbing icons",
     "super": "water_infrastructure"
@@ -2058,6 +2275,9 @@
   "play_structure": {
     "super": "playground_equipment"
   },
+  "plus": {
+    "super": "typographical_symbol"
+  },
   "pointy_rock": {
     "super": "rock"
   },
@@ -2081,6 +2301,9 @@
   },
   "post_box": {
     "super": "mail"
+  },
+  "poster_box": {
+    "super": "sign"
   },
   "poultry": {
     "super": [
@@ -2134,6 +2357,9 @@
       "mask"
     ]
   },
+  "pumpjack": {
+    "super": "erected_structure"
+  },
   "pumpkin": {
     "super": "fruit"
   },
@@ -2142,6 +2368,9 @@
       "pumpkin",
       "carriage"
     ]
+  },
+  "punctuation_mark": {
+    "super": "typographical_symbol"
   },
   "purse": {
     "super": "bag"
@@ -2161,8 +2390,11 @@
   "quaker_star": {
     "super": "christian_symbol"
   },
-  "racehorse": {
-    "super": "horse"
+  "quarter_note": {
+    "super": "musical_note"
+  },
+  "question_mark": {
+    "super": "punctuation_mark"
   },
   "racquet": {
     "super": [
@@ -2188,6 +2420,18 @@
   "railway_track": {
     "super": "railway_infrastructure"
   },
+  "railway_track_askew": {
+    "super": [
+      "railway_track",
+      "busted"
+    ]
+  },
+  "railway_track_partial": {
+    "super": [
+      "railway_track",
+      "busted"
+    ]
+  },
   "raised_curb": {
     "super": "curb"
   },
@@ -2200,6 +2444,7 @@
   "rattlesnake": {
     "super": "snake"
   },
+  "ray": {},
   "rectangle": {
     "super": "parallelogram"
   },
@@ -2257,6 +2502,9 @@
   },
   "roof": {
     "super": "shelter"
+  },
+  "roofed_information_board": {
+    "super": "sign"
   },
   "room": {
     "super": "building"
@@ -2339,7 +2587,10 @@
     "super": "bus"
   },
   "scissor": {
-    "super": "hand_tool"
+    "super": [
+      "hand_tool",
+      "hair_care"
+    ]
   },
   "screen": {
     "super": "electronic_device"
@@ -2459,21 +2710,30 @@
   "sitting_tank_toilet": {
     "super": "toilet"
   },
+  "sixteenth_note": {
+    "super": "musical_note"
+  },
   "skate": {
-    "super": "footwear"
+    "super": [
+      "footwear",
+      "vehicle"
+    ]
   },
   "skateboard": {
     "super": [
-      "vehicle",
-      "sport_equipment"
+      "wheeled_vehicle",
+      "board"
     ]
   },
   "skateboard_deck": {
     "super": "skateboard"
   },
+  "ski": {
+    "super": "vehicle"
+  },
   "skull": {
     "commons": "Plain black SVG skull icons",
-    "super": "body_part"
+    "super": "bone"
   },
   "skull_ruck": {
     "super": [
@@ -2483,6 +2743,9 @@
   },
   "skyscraper": {
     "super": "building"
+  },
+  "sled": {
+    "super": "vehicle"
   },
   "slice_of_pan_bread": {
     "super": "pan_bread"
@@ -2495,6 +2758,15 @@
   },
   "snake": {
     "super": "reptile"
+  },
+  "snomobile": {
+    "super": "motor_vehicle"
+  },
+  "snowboard": {
+    "super": [
+      "sled",
+      "board"
+    ]
   },
   "snowcapped_mountain": {
     "super": "mountain"
@@ -2521,7 +2793,7 @@
     "super": "vehicle"
   },
   "soccer_ball": {
-    "super": "sport_ball"
+    "super": "ball"
   },
   "spacecraft": {
     "super": "aircraft"
@@ -2578,12 +2850,6 @@
     "super": "cutlery"
   },
   "sport": {},
-  "sport_ball": {
-    "super": [
-      "ball",
-      "sport_equipment"
-    ]
-  },
   "sport_court": {
     "super": "sport"
   },
@@ -2602,8 +2868,7 @@
   "spring_rider": {
     "super": [
       "amusement_ride",
-      "playground_equipment",
-      "horse"
+      "playground_equipment"
     ]
   },
   "spyglass": {
@@ -2660,6 +2925,9 @@
       "stile"
     ]
   },
+  "stethoscope": {
+    "super": "medical_device"
+  },
   "stile": {
     "super": "portal"
   },
@@ -2715,6 +2983,18 @@
     "commons": "Plain black SVG luggage icons",
     "super": "bag"
   },
+  "suitcase_xray": {
+    "super": "suitcase"
+  },
+  "surfboard": {
+    "super": [
+      "board",
+      "boat"
+    ]
+  },
+  "survey_triangulation_disk": {
+    "super": "survey_marker"
+  },
   "sushi": {
     "super": "prepared_food"
   },
@@ -2723,6 +3003,9 @@
   },
   "swinging_door": {
     "super": "door"
+  },
+  "sword": {
+    "super": "bladed_weapon"
   },
   "symbol": {},
   "syringe": {
@@ -2789,7 +3072,7 @@
     "super": "sushi"
   },
   "tennis_ball": {
-    "super": "sport_ball"
+    "super": "ball"
   },
   "tent": {
     "commons": "Plain black SVG tent icons",
@@ -2807,6 +3090,9 @@
   },
   "thyroid": {
     "super": "internal_organ"
+  },
+  "tiling": {
+    "super": "flooring"
   },
   "tipi_campsite": {
     "super": "campsite"
@@ -2866,19 +3152,29 @@
   "town_building": {
     "super": "building"
   },
+  "traditional_festive_latin_clothes": {
+    "super": "clothing"
+  },
+  "traditional_storage_jars": {
+    "super": "vase"
+  },
   "traffic_calming": {
     "super": "barrier"
   },
   "tragedy_mask": {
-    "super": "mask"
+    "super": [
+      "mask",
+      "theater"
+    ]
   },
   "trailer": {
-    "super": "vehicle"
+    "super": "wheeled_vehicle"
   },
   "train": {
     "commons": "Plain black SVG train icons",
     "super": [
       "transit_vehicle",
+      "wheeled_vehicle",
       "railway"
     ]
   },
@@ -2945,7 +3241,10 @@
   },
   "truck": {
     "commons": "Plain black SVG truck icons",
-    "super": "motor_vehicle"
+    "super": [
+      "motor_vehicle",
+      "wheeled_vehicle"
+    ]
   },
   "trumpet": {
     "super": "brass_instrument"
@@ -2984,10 +3283,16 @@
     "super": "turtle"
   },
   "tv": {
-    "super": "tv_screen"
+    "super": [
+      "tv_screen",
+      "electric_appliance"
+    ]
   },
   "tv_screen": {
     "super": "screen"
+  },
+  "two_button_computer_mouse": {
+    "super": "personal_computer"
   },
   "typha": {
     "super": "plant"
@@ -3016,10 +3321,19 @@
     ]
   },
   "utv": {
-    "super": "motor_vehicle"
+    "super": [
+      "motor_vehicle",
+      "wheeled_vehicle"
+    ]
+  },
+  "vacuum_cleaner": {
+    "super": [
+      "vacuum",
+      "electric_appliance"
+    ]
   },
   "vacuum_station": {
-    "super": "vacuum_cleaner"
+    "super": "vacuum"
   },
   "van": {
     "super": "bus"
@@ -3043,8 +3357,14 @@
   "vertical_rotisserie": {
     "super": "meat"
   },
+  "video_camera": {
+    "super": [
+      "camera",
+      "movie"
+    ]
+  },
   "video_camera_symbol": {
-    "super": "camera"
+    "super": "video_camera"
   },
   "video_game": {
     "super": "game"
@@ -3065,7 +3385,10 @@
     "super": "landform"
   },
   "volleyball": {
-    "super": "sport_ball"
+    "super": "ball"
+  },
+  "waiters_attire": {
+    "super": "clothing"
   },
   "wall": {
     "super": "barrier"
@@ -3081,6 +3404,12 @@
   },
   "warning_symbol": {
     "super": "symbol"
+  },
+  "washing_machine": {
+    "super": [
+      "electric_appliance",
+      "cleaning_device"
+    ]
   },
   "waste_container": {
     "commons": "Plain black SVG waste container icons",
@@ -3147,7 +3476,13 @@
     "super": "camera"
   },
   "wheelchair": {
-    "super": "vehicle"
+    "super": "wheeled_vehicle"
+  },
+  "wheeled_vehicle": {
+    "super": [
+      "vehicle",
+      "wheel"
+    ]
   },
   "wheelie_bin": {
     "super": "waste_container"
@@ -3169,6 +3504,9 @@
       "mill"
     ]
   },
+  "window": {
+    "super": "portal"
+  },
   "windpump": {
     "super": "wind"
   },
@@ -3180,6 +3518,15 @@
   },
   "wine_glass": {
     "super": "drinking_glass"
+  },
+  "winged_creature": {
+    "super": "creature"
+  },
+  "winged_horse": {
+    "super": [
+      "horse",
+      "winged_creature"
+    ]
   },
   "wizards_hat": {
     "super": "hat"
