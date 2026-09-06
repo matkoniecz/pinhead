@@ -7822,62 +7822,74 @@
       {
         "newId": "roman_numeral_i",
         "by": "@quincylvania",
-        "issue": "11"
+        "issue": "11",
+        "char": "Ⅰ"
       },
       {
         "newId": "roman_numeral_ii",
         "by": "@quincylvania",
-        "issue": "11"
+        "issue": "11",
+        "char": "Ⅱ"
       },
       {
         "newId": "roman_numeral_iii",
         "by": "@quincylvania",
-        "issue": "11"
+        "issue": "11",
+        "char": "Ⅲ"
       },
       {
         "newId": "roman_numeral_iv",
         "by": "@quincylvania",
-        "issue": "11"
+        "issue": "11",
+        "char": "Ⅳ"
       },
       {
         "newId": "roman_numeral_v",
         "by": "@quincylvania",
-        "issue": "11"
+        "issue": "11",
+        "char": "Ⅴ"
       },
       {
         "newId": "roman_numeral_vi",
         "by": "@quincylvania",
-        "issue": "11"
+        "issue": "11",
+        "char": "Ⅵ"
       },
       {
         "newId": "roman_numeral_vii",
         "by": "@quincylvania",
-        "issue": "11"
+        "issue": "11",
+        "char": "Ⅶ"
       },
       {
         "newId": "roman_numeral_viii",
         "by": "@quincylvania",
-        "issue": "11"
+        "issue": "11",
+        "char": "Ⅷ"
       },
       {
         "newId": "roman_numeral_ix",
         "by": "@quincylvania",
-        "issue": "11"
+        "issue": "11",
+        "char": "Ⅸ"
       },
       {
         "newId": "roman_numeral_x",
         "by": "@quincylvania",
-        "issue": "11"
+        "issue": "11",
+        "char": "Ⅹ"
       },
       {
         "newId": "roman_numeral_xi",
         "by": "@quincylvania",
-        "issue": "11"
+        "issue": "11",
+        "char": "Ⅺ"
       },
       {
         "newId": "roman_numeral_xii",
         "by": "@quincylvania",
-        "issue": "11"
+        "issue": "11",
+        "char": "Ⅻ"
       },
       {
         "newId": "roman_numeral_xx",
