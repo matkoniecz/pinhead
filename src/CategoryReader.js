@@ -110,6 +110,8 @@ const stateVerbs = [
   "jumping",
   "kneeling",
   "leaping",
+  "lounging",
+  "open_armed",
   "pointing",
   "praying",
   "reaching",

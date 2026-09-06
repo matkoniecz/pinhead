@@ -20424,6 +20424,75 @@
         "newId": "person_spiking_ball"
       },
       {
+        "oldId": "head_and_shoulders",
+        "newId": "person"
+      },
+      {
+        "oldId": "gumdrop_head_and_shoulders",
+        "newId": "person",
+        "edit": "merge"
+      },
+      {
+        "oldId": "pixel_head_and_shoulders",
+        "newId": "pixel_person"
+      },
+      {
+        "oldId": "overweight_person",
+        "newId": "overweight_person_standing"
+      },
+      {
+        "oldId": "underweight_person",
+        "newId": "underweight_person_standing"
+      },
+      {
+        "oldId": "pregnant_person",
+        "newId": "pregnant_person_standing"
+      },
+      {
+        "oldId": "person_aiming_archery_bow",
+        "newId": "person_standing_aiming_archery_bow"
+      },
+      {
+        "oldId": "person_holding_shopping_bags_walking",
+        "newId": "person_carrying_shopping_bags"
+      },
+      {
+        "oldId": "person_holding_branches",
+        "newId": "person_standing_holding_branches"
+      },
+      {
+        "oldId": "person_in_water_wearing_swim_briefs_holding_bucket",
+        "newId": "person_standing_in_water_wearing_swim_briefs_holding_bucket"
+      },
+      {
+        "oldId": "person_holding_cane",
+        "newId": "person_standing_holding_cane"
+      },
+      {
+        "oldId": "person_wearing_dress_holding_cane",
+        "newId": "person_standing_wearing_dress_holding_cane"
+      },
+      {
+        "oldId": "person_wearing_cowboy_hat_holding_coiled_rope",
+        "newId": "person_standing_wearing_cowboy_hat_holding_coiled_rope"
+      },
+      {
+        "oldId": "person_with_droplets",
+        "newId": "person_standing_with_droplets"
+      },
+      {
+        "oldId": "person_with_open_arms",
+        "newId": "person_standing_open_armed"
+      },
+      {
+        "oldId": "person_reaching_up",
+        "newId": "person_standing_reaching_up"
+      },
+      {
+        "oldId": "person_squatting_and_person_reaching_up",
+        "newId": "person_squatting_beside_person_standing_reaching_up"
+      },
+      {
         "oldId": "elevator_rider",
         "newId": "person_standing_in_rectangle_outline_under_arrow_up_beside_arrow_down"
       },

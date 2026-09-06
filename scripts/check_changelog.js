@@ -315,7 +315,7 @@ async function validateIconChange(iconChange, versionChangelog, iconsById) {
           return;
         }
       } else {
-        if (!sameSvg) {
+        if (!sameSvg && iconChange.edit !== "merge") {
           console.error(
             `Unexpected difference between SVGs of old icon "v${v - 1}/${iconChange.oldId}" and new icon "v${v}/${iconChange.newId}"`,
           );
