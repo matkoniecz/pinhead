@@ -3,10 +3,9 @@ const pluralize =
     ? (await import("pluralize")).default
     : window.pluralize;
 
-const prefixes = [
-  "anime",
-  "cartoon",
-  "pixel",
+const stylePrefixes = ["anime", "cartoon", "pixel"];
+
+const amountPrefixes = [
   "crossed",
   "double",
   "triple",
@@ -17,6 +16,9 @@ const prefixes = [
   "five",
   "six",
 ];
+
+const prefixes = amountPrefixes.concat(stylePrefixes);
+
 const suffixes = [
   "bottom_left",
   "bottom_right",
