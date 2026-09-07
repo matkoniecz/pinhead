@@ -20533,14 +20533,6 @@
         "newId": "person_standing_with_droplets"
       },
       {
-        "oldId": "person_with_open_arms",
-        "newId": "person_standing_open_armed"
-      },
-      {
-        "oldId": "person_reaching_up",
-        "newId": "person_standing_reaching_up"
-      },
-      {
         "oldId": "person_squatting_and_person_reaching_up",
         "newId": "person_squatting_beside_person_standing_reaching_up"
       },
