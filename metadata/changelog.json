@@ -17332,6 +17332,14 @@
         "issue": "230"
       },
       {
+        "newId": "person_standing_with_heart",
+        "by": "@quincylvania",
+        "inspo": [
+          "person_standing",
+          "heart"
+        ]
+      },
+      {
         "oldId": "person_with_open_arms",
         "newId": "person_standing_open_armed",
         "by": "@quincylvania"
