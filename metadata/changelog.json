@@ -17326,6 +17326,12 @@
         "by": "@quincylvania"
       },
       {
+        "oldId": "person_with_droplets",
+        "newId": "person_standing_with_droplets",
+        "by": "@quincylvania",
+        "issue": "230"
+      },
+      {
         "oldId": "person_with_open_arms",
         "newId": "person_standing_open_armed",
         "by": "@quincylvania"
@@ -20527,10 +20533,6 @@
       {
         "oldId": "person_wearing_cowboy_hat_holding_coiled_rope",
         "newId": "person_standing_wearing_cowboy_hat_holding_coiled_rope"
-      },
-      {
-        "oldId": "person_with_droplets",
-        "newId": "person_standing_with_droplets"
       },
       {
         "oldId": "person_squatting_and_person_reaching_up",
