@@ -439,6 +439,9 @@
   "broadleaved_tree": {
     "super": "tree"
   },
+  "broadshouldered_person": {
+    "super": "person"
+  },
   "budded_latin_cross": {
     "super": "christian_cross"
   },
@@ -680,6 +683,9 @@
   },
   "chicken": {
     "super": "poultry"
+  },
+  "child": {
+    "super": "person"
   },
   "chipped_log": {
     "super": "firewood"

@@ -17321,6 +17321,31 @@
         ]
       },
       {
+        "oldId": "womens_restroom_symbol",
+        "newId": "person_standing_wearing_dress",
+        "by": "@quincylvania"
+      },
+      {
+        "oldId": "mens_restroom_symbol",
+        "newId": "broadshouldered_person_standing",
+        "by": "@quincylvania"
+      },
+      {
+        "oldId": "womens_and_mens_restroom_symbol",
+        "newId": "person_standing_wearing_dress_beside_broadshouldered_person_standing",
+        "by": "@quincylvania"
+      },
+      {
+        "oldId": "womens_and_mens_separate_restrooms_symbol",
+        "newId": "person_standing_wearing_dress_beside_divider_beside_broadshouldered_person_standing",
+        "by": "@quincylvania"
+      },
+      {
+        "oldId": "family_restroom_symbol",
+        "newId": "person_standing_wearing_dress_beside_child_standing_beside_broadshouldered_person_standing",
+        "by": "@quincylvania"
+      },
+      {
         "newId": "person_falling",
         "by": "@quincylvania",
         "inspo": "person_falling_on_rough_surface"
