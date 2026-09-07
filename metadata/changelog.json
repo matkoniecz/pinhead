@@ -12097,11 +12097,11 @@
         "newId": "sauvastika",
         "by": "@ooosssay",
         "pr": "163",
+        "sensitive": "hate",
         "char": [
           "卍",
           "࿖"
-        ],
-        "sensitive": "hate"
+        ]
       },
       {
         "newId": "sauvastika_with_dots",
@@ -12109,18 +12109,18 @@
           "@ooosssay",
           "@quincylvania"
         ],
-        "char": "࿘",
-        "sensitive": "hate"
+        "sensitive": "hate",
+        "char": "࿘"
       },
       {
         "newId": "swastika",
         "by": "@ooosssay",
         "pr": "163",
+        "sensitive": "hate",
         "char": [
           "卐",
           "࿕"
-        ],
-        "sensitive": "hate"
+        ]
       },
       {
         "newId": "swastika_with_dots",
@@ -12128,8 +12128,8 @@
           "@ooosssay",
           "@quincylvania"
         ],
-        "char": "࿗",
-        "sensitive": "hate"
+        "sensitive": "hate",
+        "char": "࿗"
       },
       {
         "newId": "pixel_peso",
