@@ -17321,6 +17321,21 @@
         ]
       },
       {
+        "oldId": "person_standing",
+        "newId": "person_standing",
+        "by": "@quincylvania"
+      },
+      {
+        "oldId": "person_with_open_arms",
+        "newId": "person_standing_open_armed",
+        "by": "@quincylvania"
+      },
+      {
+        "oldId": "person_reaching_up",
+        "newId": "person_standing_reaching_up",
+        "by": "@quincylvania"
+      },
+      {
         "oldId": "womens_restroom_symbol",
         "newId": "person_standing_wearing_dress",
         "by": "@quincylvania"
