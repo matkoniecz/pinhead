@@ -128,7 +128,6 @@
         "newId": "analog_watch",
         "src": "maki",
         "importBy": "@quincylvania",
-        "char": "⌚",
         "maki": "watch"
       },
       {
@@ -362,7 +361,6 @@
         "newId": "balloon",
         "src": "temaki",
         "importBy": "@quincylvania",
-        "char": "🎈",
         "temaki": "balloon"
       },
       {
@@ -463,7 +461,6 @@
         "newId": "bed",
         "src": "osmcarto",
         "importBy": "@quincylvania",
-        "char": "🛏️",
         "osmcarto": "shop/bed"
       },
       {
@@ -598,7 +595,6 @@
         "newId": "bicyclist",
         "src": "maki",
         "importBy": "@quincylvania",
-        "char": "🚴",
         "maki": "bicycle-share",
         "nps": "bicycle-trail"
       },
@@ -635,7 +631,6 @@
         "src": "opentrailmap",
         "srcBy": "@quincylvania",
         "importBy": "@quincylvania",
-        "char": "🐦",
         "opentrailmap": "wildlife_refuge"
       },
       {
@@ -697,7 +692,6 @@
         "newId": "bolt",
         "src": "temaki",
         "importBy": "@quincylvania",
-        "char": "⚡",
         "maki": "charging-station",
         "temaki": "power"
       },
@@ -705,7 +699,6 @@
         "newId": "book",
         "src": "temaki",
         "importBy": "@quincylvania",
-        "char": "📕",
         "opengemeenten": "Gegevenswoordenboek",
         "temaki": "book_store"
       },
@@ -791,7 +784,6 @@
         "src": "temaki",
         "srcBy": "@quincylvania",
         "importBy": "@quincylvania",
-        "char": "💼",
         "maki": "suitcase",
         "temaki": "briefcase"
       },
@@ -984,7 +976,6 @@
         "newId": "camera",
         "src": "maki",
         "importBy": "@quincylvania",
-        "char": "📷",
         "maki": "attraction",
         "nps": "photography",
         "openhistoricalmap": "photo",
@@ -1256,8 +1247,7 @@
       },
       {
         "newId": "checkmark",
-        "by": "@quincylvania",
-        "char": "✓"
+        "by": "@quincylvania"
       },
       {
         "newId": "chefs_knife",
@@ -1322,7 +1312,6 @@
       {
         "newId": "circle",
         "by": "@quincylvania",
-        "char": "⚫",
         "maki": "circle"
       },
       {
@@ -1459,7 +1448,6 @@
         "newId": "cocktail",
         "src": "maki",
         "importBy": "@quincylvania",
-        "char": "🍸",
         "maki": "bar",
         "openhistoricalmap": "bar",
         "osmcarto": "amenity/bar",
@@ -2018,7 +2006,6 @@
         "newId": "ear",
         "src": "temaki",
         "importBy": "@quincylvania",
-        "char": "👂",
         "healthicons": "body/ear",
         "temaki": "ear"
       },
@@ -2032,7 +2019,6 @@
         "newId": "ear_with_hearing_aid",
         "src": "temaki",
         "importBy": "@quincylvania",
-        "char": "🦻",
         "osmcarto": "shop/hearing_aids",
         "temaki": "hearing_aid"
       },
@@ -2407,7 +2393,6 @@
         "newId": "fountain_from_fountain_basin",
         "by": "@quincylvania",
         "inspo": "fountain_from_water",
-        "char": "⛲",
         "osmcarto": "amenity/fountain"
       },
       {
@@ -2527,7 +2512,6 @@
         "newId": "goggles",
         "src": "temaki",
         "importBy": "@quincylvania",
-        "char": "🥽",
         "temaki": "tanning2"
       },
       {
@@ -2548,7 +2532,6 @@
         "newId": "golfer",
         "src": "maki",
         "importBy": "@quincylvania",
-        "char": "🏌️",
         "maki": "golf",
         "nps": "golfing"
       },
@@ -2661,7 +2644,6 @@
         "newId": "hand",
         "src": "temaki",
         "importBy": "@quincylvania",
-        "char": "✋",
         "temaki": "hand"
       },
       {
@@ -2888,7 +2870,6 @@
         "newId": "house_with_chimney",
         "src": "maki",
         "importBy": "@quincylvania",
-        "char": "🏠",
         "maki": "home"
       },
       {
@@ -3011,7 +2992,6 @@
         "newId": "jar",
         "src": "osmcarto",
         "importBy": "@quincylvania",
-        "char": "🫙",
         "osmcarto": "shop/deli"
       },
       {
@@ -3193,8 +3173,7 @@
       {
         "newId": "key",
         "by": "@quincylvania",
-        "inspo": "bicycle_and_key",
-        "char": "🔑"
+        "inspo": "bicycle_and_key"
       },
       {
         "newId": "keyhole",
@@ -3321,7 +3300,6 @@
         "newId": "lightbulb",
         "src": "temaki",
         "importBy": "@quincylvania",
-        "char": "💡",
         "temaki": [
           "bulb",
           "bulb2",
@@ -3374,7 +3352,6 @@
         "newId": "locked_lock_with_keyhole",
         "src": "temaki",
         "importBy": "@quincylvania",
-        "char": "🔒",
         "temaki": "lock"
       },
       {
@@ -3777,7 +3754,6 @@
         "newId": "mountain",
         "by": "@quincylvania",
         "inspo": "mountain_with_greek_cross",
-        "char": "⛰️",
         "osmic": "nature/peak"
       },
       {
@@ -3847,7 +3823,6 @@
         "newId": "newspaper",
         "src": "osmcarto",
         "importBy": "@quincylvania",
-        "char": "📰",
         "opengemeenten": "Actueel",
         "osmcarto": "shop/newsagent",
         "osmic": "shop/news"
@@ -3967,7 +3942,6 @@
         "newId": "palette",
         "src": "osmcarto",
         "importBy": "@quincylvania",
-        "char": "🎨",
         "openhistoricalmap": "arts_centre",
         "osmcarto": "shop/art"
       },
@@ -4075,7 +4049,6 @@
         "newId": "pedestrian",
         "src": "temaki",
         "importBy": "@quincylvania",
-        "char": "🚶",
         "healthicons": "exercise/walking",
         "nps": "walking",
         "temaki": "pedestrian"
@@ -4873,7 +4846,6 @@
         "newId": "portable_radio",
         "src": "temaki",
         "importBy": "@quincylvania",
-        "char": "📻",
         "temaki": "radio"
       },
       {
@@ -4962,7 +4934,6 @@
         "newId": "purse",
         "src": "temaki",
         "importBy": "@quincylvania",
-        "char": "👛",
         "temaki": "handbag"
       },
       {
@@ -5381,7 +5352,6 @@
         "src": "temaki",
         "srcBy": "@quincylvania",
         "importBy": "@quincylvania",
-        "char": "🛡️",
         "temaki": "shield"
       },
       {
@@ -5394,7 +5364,6 @@
         "newId": "shoe",
         "src": "maki",
         "importBy": "@quincylvania",
-        "char": "👞",
         "maki": "shoe",
         "openhistoricalmap": "shoes",
         "osmcarto": "shop/shoes",
@@ -5538,8 +5507,7 @@
       {
         "newId": "skull",
         "by": "@quincylvania",
-        "inspo": "skull_with_x_oblique",
-        "char": "💀"
+        "inspo": "skull_with_x_oblique"
       },
       {
         "newId": "skull_with_x_oblique",
@@ -5608,7 +5576,6 @@
         "newId": "slot_machine",
         "src": "temaki",
         "importBy": "@quincylvania",
-        "char": "🎰",
         "temaki": "casino"
       },
       {
@@ -5626,7 +5593,6 @@
         "newId": "snowboarder",
         "src": "nps",
         "importBy": "@quincylvania",
-        "char": "🏂",
         "nps": "snowboarding",
         "temaki": "snowboarding"
       },
@@ -5988,7 +5954,6 @@
         "newId": "sushi",
         "src": "maki",
         "importBy": "@quincylvania",
-        "char": "🍣",
         "maki": "restaurant-sushi"
       },
       {
@@ -6302,7 +6267,6 @@
         "src": "temaki",
         "srcBy": "@quincylvania",
         "importBy": "@quincylvania",
-        "char": "🚊",
         "temaki": "tram"
       },
       {
@@ -6487,7 +6451,6 @@
         "newId": "tshirt",
         "src": "osmcarto",
         "importBy": "@quincylvania",
-        "char": "👕",
         "openhistoricalmap": "clothes",
         "osmcarto": "shop/clothes",
         "osmic": "shop/clothes"
@@ -6508,7 +6471,6 @@
         "newId": "tulip",
         "src": "maki",
         "importBy": "@quincylvania",
-        "char": "🌷",
         "maki": "garden",
         "openhistoricalmap": "garden",
         "osmcarto": "shop/florist",
@@ -6926,7 +6888,6 @@
         "newId": "window",
         "src": "temaki",
         "importBy": "@quincylvania",
-        "char": "🪟",
         "temaki": "window"
       },
       {
@@ -7115,7 +7076,6 @@
       {
         "newId": "car_profile",
         "by": "@quincylvania",
-        "char": "🚗",
         "openhistoricalmap": "car"
       },
       {
@@ -7857,80 +7817,67 @@
       {
         "newId": "plus",
         "by": "@quincylvania",
-        "inspo": "plus_squat",
-        "char": "+"
+        "inspo": "plus_squat"
       },
       {
         "newId": "roman_numeral_i",
         "by": "@quincylvania",
-        "issue": "11",
-        "char": "Ⅰ"
+        "issue": "11"
       },
       {
         "newId": "roman_numeral_ii",
         "by": "@quincylvania",
-        "issue": "11",
-        "char": "Ⅱ"
+        "issue": "11"
       },
       {
         "newId": "roman_numeral_iii",
         "by": "@quincylvania",
-        "issue": "11",
-        "char": "Ⅲ"
+        "issue": "11"
       },
       {
         "newId": "roman_numeral_iv",
         "by": "@quincylvania",
-        "issue": "11",
-        "char": "Ⅳ"
+        "issue": "11"
       },
       {
         "newId": "roman_numeral_v",
         "by": "@quincylvania",
-        "issue": "11",
-        "char": "Ⅴ"
+        "issue": "11"
       },
       {
         "newId": "roman_numeral_vi",
         "by": "@quincylvania",
-        "issue": "11",
-        "char": "Ⅵ"
+        "issue": "11"
       },
       {
         "newId": "roman_numeral_vii",
         "by": "@quincylvania",
-        "issue": "11",
-        "char": "Ⅶ"
+        "issue": "11"
       },
       {
         "newId": "roman_numeral_viii",
         "by": "@quincylvania",
-        "issue": "11",
-        "char": "Ⅷ"
+        "issue": "11"
       },
       {
         "newId": "roman_numeral_ix",
         "by": "@quincylvania",
-        "issue": "11",
-        "char": "Ⅸ"
+        "issue": "11"
       },
       {
         "newId": "roman_numeral_x",
         "by": "@quincylvania",
-        "issue": "11",
-        "char": "Ⅹ"
+        "issue": "11"
       },
       {
         "newId": "roman_numeral_xi",
         "by": "@quincylvania",
-        "issue": "11",
-        "char": "Ⅺ"
+        "issue": "11"
       },
       {
         "newId": "roman_numeral_xii",
         "by": "@quincylvania",
-        "issue": "11",
-        "char": "Ⅻ"
+        "issue": "11"
       },
       {
         "newId": "roman_numeral_xx",
@@ -8236,8 +8183,7 @@
       {
         "newId": "person_climbing",
         "by": "@quincylvania",
-        "inspo": "person_climbing_with_climbing_rope",
-        "char": "🧗"
+        "inspo": "person_climbing_with_climbing_rope"
       },
       {
         "newId": "bus_within_guideway",
@@ -8589,8 +8535,7 @@
       },
       {
         "newId": "pound",
-        "by": "@quincylvania",
-        "char": "£"
+        "by": "@quincylvania"
       },
       {
         "newId": "car_with_pound",
@@ -8804,8 +8749,7 @@
       {
         "newId": "butterfly",
         "by": "@quincylvania",
-        "inspo": "butterfly_with_stars_and_dots",
-        "char": "🦋"
+        "inspo": "butterfly_with_stars_and_dots"
       },
       {
         "newId": "sailing_ship_in_water",
@@ -9354,8 +9298,7 @@
       },
       {
         "newId": "bone",
-        "by": "@quincylvania",
-        "char": "🦴"
+        "by": "@quincylvania"
       },
       {
         "newId": "jack_o_lantern",
@@ -9513,7 +9456,6 @@
         "src": "healthicons",
         "importBy": "@quincylvania",
         "issue": "107",
-        "char": "🦟",
         "healthicons": "zoonoses/mosquito"
       },
       {
@@ -9572,7 +9514,6 @@
         "src": "healthicons",
         "importBy": "@quincylvania",
         "issue": "107",
-        "char": "🧬",
         "healthicons": "body/dna"
       },
       {
@@ -9621,7 +9562,6 @@
         "src": "healthicons",
         "importBy": "@quincylvania",
         "issue": "107",
-        "char": "🦶",
         "healthicons": "body/foot"
       },
       {
@@ -9672,7 +9612,6 @@
         "src": "healthicons",
         "importBy": "@quincylvania",
         "issue": "107",
-        "char": "🦵",
         "healthicons": "body/leg"
       },
       {
@@ -9687,7 +9626,6 @@
         "src": "healthicons",
         "importBy": "@quincylvania",
         "issue": "107",
-        "char": "🫁",
         "healthicons": "body/lungs"
       },
       {
@@ -9959,8 +9897,7 @@
         "newId": "badminton_racket_and_shuttlecock",
         "src": "https://upload.wikimedia.org/wikipedia/commons/0/0b/MX_road_sign_SIT-18.svg",
         "importBy": "@ooosssay",
-        "pr": "116",
-        "char": "🏸"
+        "pr": "116"
       },
       {
         "newId": "person_behind_desk",
@@ -11056,7 +10993,6 @@
         "src": "opengemeenten",
         "importBy": "@quincylvania",
         "issue": "141",
-        "char": "🪂",
         "opengemeenten": "Airborne"
       },
       {
@@ -11284,7 +11220,6 @@
         "src": "opengemeenten",
         "importBy": "@quincylvania",
         "issue": "141",
-        "char": "🔍",
         "opengemeenten": "Zoeken"
       },
       {
@@ -12141,11 +12076,11 @@
         "newId": "sauvastika",
         "by": "@ooosssay",
         "pr": "163",
-        "sensitive": "hate",
         "char": [
           "卍",
           "࿖"
-        ]
+        ],
+        "sensitive": "hate"
       },
       {
         "newId": "sauvastika_with_dots",
@@ -12153,18 +12088,18 @@
           "@ooosssay",
           "@quincylvania"
         ],
-        "sensitive": "hate",
-        "char": "࿘"
+        "char": "࿘",
+        "sensitive": "hate"
       },
       {
         "newId": "swastika",
         "by": "@ooosssay",
         "pr": "163",
-        "sensitive": "hate",
         "char": [
           "卐",
           "࿕"
-        ]
+        ],
+        "sensitive": "hate"
       },
       {
         "newId": "swastika_with_dots",
@@ -12172,8 +12107,8 @@
           "@ooosssay",
           "@quincylvania"
         ],
-        "sensitive": "hate",
-        "char": "࿗"
+        "char": "࿗",
+        "sensitive": "hate"
       },
       {
         "newId": "pixel_peso",
@@ -12728,8 +12663,7 @@
         "newId": "puzzle_piece",
         "by": "@ooosssay",
         "issue": "33",
-        "pr": "185",
-        "char": "🧩"
+        "pr": "185"
       },
       {
         "newId": "confetti_ball",
@@ -14948,8 +14882,7 @@
     "iconChanges": [
       {
         "newId": "canoe",
-        "by": "@quincylvania",
-        "char": "🛶"
+        "by": "@quincylvania"
       },
       {
         "newId": "canoe_on_water",
@@ -14971,7 +14904,6 @@
         "src": "openhistoricalmap",
         "importBy": "@quincylvania",
         "issue": "233",
-        "char": "🖌️",
         "openhistoricalmap": "artwork"
       },
       {
@@ -14994,7 +14926,6 @@
         "src": "openhistoricalmap",
         "importBy": "@quincylvania",
         "issue": "233",
-        "char": "🔔",
         "openhistoricalmap": "bell_tower"
       },
       {
@@ -15012,7 +14943,6 @@
         "src": "openhistoricalmap",
         "importBy": "@quincylvania",
         "issue": "233",
-        "char": "🪣",
         "openhistoricalmap": "bucket"
       },
       {
@@ -15032,8 +14962,7 @@
       {
         "newId": "coffin",
         "by": "@quincylvania",
-        "inspo": "coffin_with_latin_cross",
-        "char": "⚰️"
+        "inspo": "coffin_with_latin_cross"
       },
       {
         "newId": "telegraph_key",
@@ -15187,8 +15116,7 @@
         "newId": "hook",
         "by": "@quincylvania",
         "inspo": "barbed_hook",
-        "issue": "195",
-        "char": "🪝"
+        "issue": "195"
       },
       {
         "newId": "barbed_hook",
@@ -16528,7 +16456,8 @@
         "src": "healthicons",
         "importBy": "@quincylvania",
         "issue": "107",
-        "healthicons": "emotions/not-ok"
+        "healthicons": "emotions/not-ok",
+        "char": "☹"
       },
       {
         "newId": "sad_face_with_tear_in_circle_outline",
@@ -16557,8 +16486,7 @@
         "inspo": [
           "neutral_face_in_circle_outline",
           "happy_face_in_circle_outline"
-        ],
-        "char": "☺"
+        ]
       },
       {
         "newId": "smiling_face_with_eyeglasses_in_circle_outline",
@@ -16738,7 +16666,10 @@
         "newId": "smiling_face_in_circle",
         "by": "@quincylvania",
         "inspo": "smiling_face_in_circle_outline",
-        "char": "🙂"
+        "char": [
+          "🙂",
+          "☻"
+        ]
       },
       {
         "newId": "smiling_face_with_eyeglasses_in_circle",
@@ -16847,8 +16778,7 @@
         "newId": "bento",
         "by": "@ooosssay",
         "issue": "352",
-        "pr": "426",
-        "char": "🍱"
+        "pr": "426"
       },
       {
         "newId": "food_truck",
@@ -16879,25 +16809,9 @@
         "pr": "427"
       },
       {
-        "newId": "wall_with_battlement",
-        "by": "@Geo-2695",
-        "inspo": "city_gate",
-        "pr": "457"
-      },
-      {
-        "newId": "stone_wall_with_battlement",
-        "by": "@Geo-2695",
-        "inspo": [
-          "stone_wall",
-          "wall_with_battlement"
-        ],
-        "pr": "456"
-      },
-      {
         "newId": "curling_stone",
         "by": "@ooosssay",
-        "pr": "331",
-        "char": "🥌"
+        "pr": "331"
       },
       {
         "newId": "tennis_ball",
@@ -16913,18 +16827,6 @@
         "newId": "baseball",
         "by": "@quincylvania",
         "inspo": "tennis_ball"
-      },
-      {
-        "oldId": "bowling_ball",
-        "newId": "bowling_ball",
-        "edit": "resize",
-        "by": "@quincylvania"
-      },
-      {
-        "oldId": "soccer_ball",
-        "newId": "soccer_ball",
-        "edit": "resize",
-        "by": "@quincylvania"
       },
       {
         "oldId": "skateboard",
@@ -16958,18 +16860,6 @@
         "oldId": "basketball_in_basketball_net",
         "newId": "basketball_in_basketball_net",
         "by": "@quincylvania"
-      },
-      {
-        "newId": "horse",
-        "by": "@quincylvania",
-        "inspo": "person_riding_horse",
-        "issue": "12"
-      },
-      {
-        "newId": "horse_running",
-        "by": "@quincylvania",
-        "inspo": "person_jockeying_horse_running",
-        "issue": "12"
       },
       {
         "newId": "horse_high_stepping",
@@ -17035,18 +16925,18 @@
         ]
       },
       {
-        "newId": "bridge_shape_bottom_left_top_right",
+        "newId": "bridge_shape_diagonal",
         "by": "@quincylvania"
       },
       {
-        "newId": "bridge_shape_left_right",
+        "newId": "bridge_shape_horizontal",
         "by": "@quincylvania",
-        "inspo": "bridge_shape_bottom_left_top_right"
+        "inspo": "bridge_shape_diagonal"
       },
       {
-        "newId": "bridge_shape_up_down",
+        "newId": "bridge_shape_vertical",
         "by": "@quincylvania",
-        "inspo": "bridge_shape_bottom_left_top_right"
+        "inspo": "bridge_shape_diagonal"
       },
       {
         "newId": "bridge_in_water",
@@ -17366,13 +17256,9 @@
         "opengemeenten": "Bomen"
       },
       {
-        "oldId": "person_hanging_from_horizontal_bar",
-        "newId": "person_hanging_from_pull_up_bar"
-      },
-      {
-        "newId": "pull_up_bar",
+        "newId": "horizontal_bar",
         "by": "@quincylvania",
-        "inspo": "person_hanging_from_pull_up_bar"
+        "inspo": "person_hanging_from_horizontal_bar"
       },
       {
         "oldId": "floor_lamp",
@@ -17425,156 +17311,6 @@
           "squat_rock",
           "round_rock_with_inscription"
         ]
-      },
-      {
-        "oldId": "person_standing",
-        "newId": "person_standing",
-        "by": "@quincylvania",
-        "issue": "448"
-      },
-      {
-        "oldId": "person_with_droplets",
-        "newId": "person_standing_with_droplets",
-        "by": "@quincylvania",
-        "issue": [
-          "230",
-          "448"
-        ]
-      },
-      {
-        "newId": "person_standing_with_heart",
-        "by": "@quincylvania",
-        "inspo": [
-          "person_standing",
-          "heart"
-        ]
-      },
-      {
-        "oldId": "person_with_open_arms",
-        "newId": "person_standing_open_armed",
-        "by": "@quincylvania",
-        "issue": "448"
-      },
-      {
-        "oldId": "person_reaching_up",
-        "newId": "person_standing_reaching_up",
-        "by": "@quincylvania",
-        "issue": "448"
-      },
-      {
-        "oldId": "womens_restroom_symbol",
-        "newId": "person_standing_wearing_dress",
-        "by": "@quincylvania",
-        "issue": "448"
-      },
-      {
-        "oldId": "mens_restroom_symbol",
-        "newId": "broadshouldered_person_standing",
-        "by": "@quincylvania",
-        "issue": "448"
-      },
-      {
-        "oldId": "womens_and_mens_restroom_symbol",
-        "newId": "person_standing_wearing_dress_beside_broadshouldered_person_standing",
-        "by": "@quincylvania",
-        "issue": "448"
-      },
-      {
-        "oldId": "womens_and_mens_separate_restrooms_symbol",
-        "newId": "person_standing_wearing_dress_beside_divider_beside_broadshouldered_person_standing",
-        "by": "@quincylvania",
-        "issue": "448"
-      },
-      {
-        "oldId": "family_restroom_symbol",
-        "newId": "person_standing_wearing_dress_beside_child_standing_beside_broadshouldered_person_standing",
-        "by": "@quincylvania",
-        "issue": "448"
-      },
-      {
-        "newId": "rectangle_outline_under_arrow_up_beside_arrow_down",
-        "by": "@quincylvania",
-        "inspo": "three_people_standing_in_rectangle_outline_under_arrow_up_beside_arrow_down"
-      },
-      {
-        "oldId": "elevator_rider",
-        "newId": "person_standing_in_rectangle_outline_under_arrow_up_beside_arrow_down",
-        "by": "@quincylvania",
-        "issue": [
-          "337",
-          "448"
-        ]
-      },
-      {
-        "newId": "two_people_standing_in_rectangle_outline_under_arrow_up_beside_arrow_down",
-        "by": "@quincylvania",
-        "inspo": "three_people_standing_in_rectangle_outline_under_arrow_up_beside_arrow_down"
-      },
-      {
-        "oldId": "elevator_three_riders",
-        "newId": "three_people_standing_in_rectangle_outline_under_arrow_up_beside_arrow_down",
-        "by": "@quincylvania",
-        "issue": [
-          "337",
-          "448"
-        ]
-      },
-      {
-        "newId": "crates_in_rectangle_outline_under_arrow_up_beside_arrow_down",
-        "by": "@quincylvania",
-        "inspo": [
-          "three_people_standing_in_rectangle_outline_under_arrow_up_beside_arrow_down",
-          "aerial_cargo_lift_with_crates"
-        ]
-      },
-      {
-        "newId": "rectangle_under_arrow_up_beside_arrow_down",
-        "by": "@quincylvania",
-        "inspo": "rectangle_outline_under_arrow_up_beside_arrow_down"
-      },
-      {
-        "newId": "person_standing_in_rectangle_under_arrow_up_beside_arrow_down",
-        "by": "@quincylvania",
-        "inspo": "person_standing_in_rectangle_outline_under_arrow_up_beside_arrow_down"
-      },
-      {
-        "newId": "two_people_standing_in_rectangle_under_arrow_up_beside_arrow_down",
-        "by": "@quincylvania",
-        "inspo": "two_people_standing_in_rectangle_outline_under_arrow_up_beside_arrow_down"
-      },
-      {
-        "newId": "three_people_standing_in_rectangle_under_arrow_up_beside_arrow_down",
-        "by": "@quincylvania",
-        "inspo": "three_people_standing_in_rectangle_outline_under_arrow_up_beside_arrow_down"
-      },
-      {
-        "newId": "crates_in_rectangle_under_arrow_up_beside_arrow_down",
-        "by": "@quincylvania",
-        "inspo": "crates_in_rectangle_outline_under_arrow_up_beside_arrow_down"
-      },
-      {
-        "oldId": "person_aiming_archery_bow",
-        "newId": "person_standing_aiming_archery_bow"
-      },
-      {
-        "newId": "person_aiming_archery_bow",
-        "by": "@quincylvania",
-        "inspo": "person_standing_aiming_archery_bow"
-      },
-      {
-        "newId": "person_sitting_in_seat_beside_person_sitting_in_seat",
-        "by": "@quincylvania",
-        "inspo": "person_sitting_in_seat"
-      },
-      {
-        "newId": "person_sitting_on_lifeguard_stand",
-        "by": "@quincylvania",
-        "inspo": "person_sitting_on_lifeguard_stand_above_water"
-      },
-      {
-        "newId": "person_diving",
-        "by": "@quincylvania",
-        "inspo": "person_diving_into_water"
       },
       {
         "newId": "person_falling",
@@ -17958,7 +17694,7 @@
         "char": "℞"
       },
       {
-        "newId": "capsule_pill_and_rx_symbol",
+        "newId": "capsule_pill_beside_rx_symbol",
         "by": "@quincylvania",
         "inspo": [
           "capsule_pill",
@@ -18185,12 +17921,12 @@
         "issue": "383"
       },
       {
-        "newId": "droplet_and_greek_cross",
+        "newId": "droplet_beside_greek_cross",
         "by": "@quincylvania",
         "inspo": "droplet_with_greek_cross"
       },
       {
-        "newId": "droplet_and_question_mark",
+        "newId": "droplet_beside_question_mark",
         "by": "@quincylvania",
         "inspo": [
           "droplet",
@@ -18199,7 +17935,7 @@
         "issue": "383"
       },
       {
-        "newId": "droplet_and_exclamation_point",
+        "newId": "droplet_beside_exclamation_point",
         "by": "@quincylvania",
         "inspo": [
           "droplet",
@@ -18222,7 +17958,7 @@
         "by": "@quincylvania"
       },
       {
-        "newId": "water_bottle_and_droplet",
+        "newId": "water_bottle_beside_droplet",
         "by": "@quincylvania",
         "inspo": [
           "droplet",
@@ -19424,6 +19160,16 @@
         "inspo": "thumbs_up_hand_with_sleeve"
       },
       {
+        "newId": "person_sitting_on_lifeguard_stand",
+        "by": "@quincylvania",
+        "inspo": "person_sitting_on_lifeguard_stand_above_water"
+      },
+      {
+        "newId": "person_diving",
+        "by": "@quincylvania",
+        "inspo": "person_diving_into_water"
+      },
+      {
         "newId": "tourboat",
         "by": "@quincylvania",
         "inspo": "tourboat_on_water"
@@ -19434,14 +19180,6 @@
         "inspo": "airboat_on_water"
       },
       {
-        "newId": "canoe_under_wrench",
-        "by": "@quincylvania",
-        "inspo": [
-          "canoe",
-          "motorboat_under_wrench"
-        ]
-      },
-      {
         "oldId": "person_wearing_helmet_padding_raft_on_water",
         "newId": "person_wearing_helmet_paddling_raft_on_water"
       },
@@ -19449,42 +19187,6 @@
         "newId": "person_wearing_helmet_paddling_raft",
         "by": "@quincylvania",
         "inspo": "person_wearing_helmet_paddling_raft_on_water"
-      },
-      {
-        "newId": "three_dogs",
-        "by": "@quincylvania",
-        "inspo": "dog"
-      },
-      {
-        "newId": "three_dogs_wearing_collars",
-        "by": "@quincylvania",
-        "inspo": "dog_wearing_collar"
-      },
-      {
-        "newId": "three_dogs_under_dog_sled",
-        "by": "@quincylvania",
-        "inspo": [
-          "dog_sled",
-          "three_dogs"
-        ]
-      },
-      {
-        "newId": "three_dogs_wearing_collars_under_dog_sled",
-        "by": "@quincylvania",
-        "inspo": [
-          "dog_sled",
-          "three_dogs_wearing_collars"
-        ]
-      },
-      {
-        "newId": "dog_sled",
-        "by": "@quincylvania",
-        "inspo": "person_riding_dog_sled"
-      },
-      {
-        "oldId": "person_riding_dog_sled",
-        "newId": "person_riding_dog_sled",
-        "by": "@quincylvania"
       },
       {
         "oldId": "hand_reaching_down_toward_rough_surface",
@@ -19513,8 +19215,104 @@
         "by": "@quincylvania"
       },
       {
+        "newId": "trail_blaze",
+        "by": "@quincylvania"
+      },
+      {
+        "newId": "trail_blazes_top_left",
+        "by": "@quincylvania",
+        "inspo": "trail_blaze"
+      },
+      {
+        "newId": "trail_blazes_top_right",
+        "by": "@quincylvania",
+        "inspo": "trail_blaze"
+      },
+      {
+        "newId": "trail_blazes_left",
+        "by": "@quincylvania",
+        "inspo": "trail_blaze"
+      },
+      {
+        "newId": "trail_blazes_right",
+        "by": "@quincylvania",
+        "inspo": "trail_blaze"
+      },
+      {
+        "newId": "trail_blazes_up",
+        "by": "@quincylvania",
+        "inspo": "trail_blaze"
+      },
+      {
+        "newId": "trail_blazes_down",
+        "by": "@quincylvania",
+        "inspo": "trail_blaze"
+      },
+      {
+        "newId": "cairn_beside_trail_blaze",
+        "by": "@quincylvania",
+        "inspo": [
+          "cairn",
+          "trail_blaze"
+        ]
+      },
+      {
+        "newId": "cairn_beside_trail_blazes_top_left",
+        "by": "@quincylvania",
+        "inspo": [
+          "cairn",
+          "trail_blazes_top_left"
+        ]
+      },
+      {
+        "newId": "cairn_beside_trail_blazes_top_right",
+        "by": "@quincylvania",
+        "inspo": [
+          "cairn",
+          "trail_blazes_top_right"
+        ]
+      },
+      {
+        "newId": "cairn_beside_trail_blazes_left",
+        "by": "@quincylvania",
+        "inspo": [
+          "cairn",
+          "trail_blazes_left"
+        ]
+      },
+      {
+        "newId": "cairn_beside_trail_blazes_right",
+        "by": "@quincylvania",
+        "inspo": [
+          "cairn",
+          "trail_blazes_right"
+        ]
+      },
+      {
+        "newId": "cairn_beside_trail_blazes_up",
+        "by": "@quincylvania",
+        "inspo": [
+          "cairn",
+          "trail_blazes_up"
+        ]
+      },
+      {
+        "newId": "cairn_beside_trail_blazes_down",
+        "by": "@quincylvania",
+        "inspo": [
+          "cairn",
+          "trail_blazes_down"
+        ]
+      },
+      {
+        "oldId": "cairn",
+        "newId": "cairn",
+        "edit": "resize",
+        "by": "@quincylvania"
+      },
+      {
         "oldId": "people_above_car",
-        "newId": "two_people_above_car"
+        "newId": "person_beside_person_above_car"
       },
       {
         "newId": "sedan_under_wrench",
@@ -19573,10 +19371,10 @@
         ]
       },
       {
-        "newId": "two_people_above_sedan",
+        "newId": "person_beside_person_above_sedan",
         "by": "@quincylvania",
         "inspo": [
-          "two_people_above_car",
+          "person_beside_person_above_car",
           "sedan"
         ]
       },
@@ -19637,10 +19435,10 @@
         ]
       },
       {
-        "newId": "two_people_above_station_wagon",
+        "newId": "person_beside_person_above_station_wagon",
         "by": "@quincylvania",
         "inspo": [
-          "two_people_above_car",
+          "person_beside_person_above_car",
           "station_wagon"
         ]
       },
@@ -19677,76 +19475,6 @@
         ]
       },
       {
-        "oldId": "bicycle_and_arrow_right_above_arrow_left",
-        "newId": "bicycle_and_arrow_right_above_arrow_left",
-        "edit": "minor",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "cargobike_and_arrow_right_above_arrow_left",
-        "newId": "cargobike_and_arrow_right_above_arrow_left",
-        "edit": "minor",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "suitcase_and_arrow_right_above_arrow_left",
-        "newId": "suitcase_and_arrow_right_above_arrow_left",
-        "edit": "minor",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "motorcycle_and_arrow_right_above_arrow_left",
-        "newId": "motorcycle_and_arrow_right_above_arrow_left",
-        "edit": "minor",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "car_and_arrow_right_above_arrow_left",
-        "newId": "car_and_arrow_right_above_arrow_left",
-        "edit": "minor",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "taxi_and_arrow_right_above_arrow_left",
-        "newId": "taxi_and_arrow_right_above_arrow_left",
-        "edit": "minor",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "motorboat_and_arrow_right_above_arrow_left",
-        "newId": "motorboat_and_arrow_right_above_arrow_left",
-        "edit": "minor",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "key_and_arrow_right_above_arrow_left",
-        "newId": "key_and_arrow_right_above_arrow_left",
-        "edit": "minor",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "canoe_and_arrow_right_above_arrow_left",
-        "newId": "canoe_and_arrow_right_above_arrow_left",
-        "edit": "minor",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "bear_spray_can_with_spray_and_arrow_right_above_arrow_left",
-        "newId": "bear_spray_can_with_spray_and_arrow_right_above_arrow_left",
-        "edit": "minor",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
         "newId": "pickup_truck_under_taxi_checkerboard",
         "by": "@quincylvania",
         "inspo": [
@@ -19771,10 +19499,10 @@
         ]
       },
       {
-        "newId": "two_people_above_pickup_truck",
+        "newId": "person_beside_person_above_pickup_truck",
         "by": "@quincylvania",
         "inspo": [
-          "two_people_above_car",
+          "person_beside_person_above_car",
           "pickup_truck"
         ]
       },
@@ -19809,8 +19537,7 @@
       {
         "newId": "keyboard",
         "by": "@quincylvania",
-        "inspo": "phone_down_above_keyboard",
-        "char": "⌨️"
+        "inspo": "phone_down_above_keyboard"
       },
       {
         "newId": "keyboard_in_rectangle",
@@ -20058,6 +19785,11 @@
         ]
       },
       {
+        "newId": "person_sitting_in_seat_beside_person_sitting_in_seat",
+        "by": "@quincylvania",
+        "inspo": "person_sitting_in_seat"
+      },
+      {
         "newId": "badminton_racket",
         "by": "@quincylvania",
         "inspo": "badminton_racket_and_shuttlecock"
@@ -20083,8 +19815,7 @@
       {
         "newId": "table_tennis_paddle_and_ball",
         "by": "@quincylvania",
-        "inspo": "table_tennis_paddle",
-        "char": "🏓"
+        "inspo": "table_tennis_paddle"
       },
       {
         "oldId": "stomach",
@@ -20158,7 +19889,7 @@
         "by": "@quincylvania"
       },
       {
-        "newId": "sitting_tank_toilet_and_wc_text",
+        "newId": "sitting_tank_toilet_beside_wc_text",
         "by": "@quincylvania",
         "inspo": [
           "sitting_tank_toilet",
@@ -20517,6 +20248,94 @@
         "issue": "307"
       },
       {
+        "oldId": "quay",
+        "newId": "quay_beside_waters",
+        "by": "@quincylvania",
+        "issue": "135"
+      },
+      {
+        "newId": "pixel_international_wheelchair_symbol",
+        "by": "@quincylvania",
+        "inspo": "international_wheelchair_symbol"
+      },
+      {
+        "newId": "pixel_palm_tree",
+        "by": "@quincylvania",
+        "inspo": "palm_tree"
+      },
+      {
+        "newId": "pixel_canoe",
+        "by": "@quincylvania",
+        "inspo": "canoe"
+      },
+      {
+        "newId": "pixel_canoe_on_water",
+        "by": "@quincylvania",
+        "inspo": "canoe_on_water"
+      },
+      {
+        "newId": "pixel_arrows_left_right",
+        "by": "@quincylvania",
+        "inspo": "pixel_arrows_left_right_above_water"
+      },
+      {
+        "newId": "pixel_arrows_up_down",
+        "by": "@quincylvania",
+        "inspo": "pixel_arrows_left_right"
+      },
+      {
+        "newId": "pixel_arrow_up",
+        "by": "@quincylvania",
+        "inspo": [
+          "pixel_arrows_up_down",
+          "arrow_up"
+        ]
+      },
+      {
+        "newId": "pixel_arrow_down",
+        "by": "@quincylvania",
+        "inspo": [
+          "pixel_arrows_up_down",
+          "arrow_down"
+        ]
+      },
+      {
+        "newId": "pixel_arrow_left",
+        "by": "@quincylvania",
+        "inspo": [
+          "pixel_arrows_left_right",
+          "arrow_left"
+        ]
+      },
+      {
+        "newId": "pixel_arrow_right",
+        "by": "@quincylvania",
+        "inspo": [
+          "pixel_arrows_left_right",
+          "arrow_right"
+        ]
+      },
+      {
+        "newId": "pixel_arrow_top_right",
+        "by": "@quincylvania",
+        "inspo": "arrow_top_right"
+      },
+      {
+        "newId": "pixel_arrow_bottom_right",
+        "by": "@quincylvania",
+        "inspo": "arrow_bottom_right"
+      },
+      {
+        "newId": "pixel_arrow_bottom_left",
+        "by": "@quincylvania",
+        "inspo": "arrow_bottom_left"
+      },
+      {
+        "newId": "pixel_arrow_top_left",
+        "by": "@quincylvania",
+        "inspo": "arrow_top_left"
+      },
+      {
         "oldId": "bagel_seeded",
         "newId": "bagel_with_seeds"
       },
@@ -20609,97 +20428,16 @@
         "newId": "person_spiking_ball"
       },
       {
-        "oldId": "head_and_shoulders",
-        "newId": "person"
+        "oldId": "elevator_rider",
+        "newId": "person_standing_in_rectangle_outline_under_arrow_up_beside_arrow_down"
       },
       {
-        "oldId": "gumdrop_head_and_shoulders",
-        "newId": "person",
-        "edit": "merge"
-      },
-      {
-        "oldId": "pixel_head_and_shoulders",
-        "newId": "pixel_person"
-      },
-      {
-        "oldId": "people_and_person_pointing",
-        "newId": "two_people_standing_beside_person_standing_pointing"
-      },
-      {
-        "oldId": "overweight_person",
-        "newId": "overweight_person_standing"
-      },
-      {
-        "oldId": "underweight_person",
-        "newId": "underweight_person_standing"
-      },
-      {
-        "oldId": "pregnant_person",
-        "newId": "pregnant_person_standing"
-      },
-      {
-        "oldId": "person_holding_shopping_bags_walking",
-        "newId": "person_carrying_shopping_bags"
-      },
-      {
-        "oldId": "person_holding_branches",
-        "newId": "person_standing_holding_branches"
-      },
-      {
-        "oldId": "person_in_water_wearing_swim_briefs_holding_bucket",
-        "newId": "person_standing_in_water_wearing_swim_briefs_holding_bucket"
-      },
-      {
-        "oldId": "person_holding_cane",
-        "newId": "person_standing_holding_cane"
-      },
-      {
-        "oldId": "person_wearing_dress_holding_cane",
-        "newId": "person_standing_wearing_dress_holding_cane"
-      },
-      {
-        "oldId": "person_wearing_cowboy_hat_holding_coiled_rope",
-        "newId": "person_standing_wearing_cowboy_hat_holding_coiled_rope"
-      },
-      {
-        "oldId": "person_squatting_and_person_reaching_up",
-        "newId": "person_squatting_beside_person_standing_reaching_up"
-      },
-      {
-        "oldId": "person_boat_racing_in_waves",
-        "newId": "person_racing_jetski_in_waves"
-      },
-      {
-        "oldId": "person_on_swing",
-        "newId": "person_sitting_on_swing"
-      },
-      {
-        "oldId": "person_on_inclined_swing",
-        "newId": "person_riding_swing"
+        "oldId": "elevator_three_riders",
+        "newId": "three_people_standing_in_rectangle_outline_under_arrow_up_beside_arrow_down"
       },
       {
         "oldId": "planes_bidirectional",
         "newId": "plane_top_right_and_plane_bottom_left"
-      },
-      {
-        "oldId": "shore",
-        "newId": "waters_meeting_shore"
-      },
-      {
-        "oldId": "kids_train",
-        "newId": "steam_train_with_smiling_face"
-      },
-      {
-        "oldId": "kids_train_with_tires",
-        "newId": "steam_train_with_smiling_face_with_tires"
-      },
-      {
-        "oldId": "kids_train_on_railway_track",
-        "newId": "steam_train_with_smiling_face_on_railway_track"
-      },
-      {
-        "oldId": "person_boarding_kids_train_on_railway_track",
-        "newId": "person_boarding_steam_train_with_smiling_face_on_railway_track"
       },
       {
         "oldId": "racquet",
@@ -20711,31 +20449,31 @@
       },
       {
         "oldId": "three_dot_horizontal_line",
-        "newId": "three_dots_left_right"
+        "newId": "three_dots_horizontal"
       },
       {
         "oldId": "three_dot_horizontal_line_in_rectangle",
-        "newId": "three_dots_left_right_in_wide_rounded_rectangle",
-        "issue": "451"
+        "newId": "three_dots_horizontal_in_rectangle"
       },
       {
         "oldId": "two_dot_horizontal_line_in_rectangle",
-        "newId": "two_dots_left_right_in_wide_rounded_rectangle",
-        "issue": "451"
+        "newId": "two_dots_horizontal_in_rectangle"
       },
       {
         "oldId": "three_dot_vertical_line",
-        "newId": "three_dots_up_down"
+        "newId": "three_dots_vertical"
       },
       {
         "oldId": "three_dot_vertical_line_in_rectangle",
-        "newId": "three_dots_up_down_in_tall_rounded_rectangle",
-        "issue": "451"
+        "newId": "three_dots_vertical_in_rectangle"
       },
       {
         "oldId": "two_dot_vertical_line_in_rectangle",
-        "newId": "two_dots_up_down_in_tall_rounded_rectangle",
-        "issue": "451"
+        "newId": "two_dots_vertical_in_rectangle"
+      },
+      {
+        "oldId": "vertical_slot",
+        "newId": "slot_vertical"
       },
       {
         "oldId": "music_notes_eighth",
@@ -20771,19 +20509,11 @@
       },
       {
         "oldId": "railway_track_narrow_gauge",
-        "newId": "narrow_railway_track"
+        "newId": "narrow_gauge_railway_track"
       },
       {
         "oldId": "spiky_fish_with_x",
         "newId": "spiky_fish_under_x"
-      },
-      {
-        "oldId": "hands_sign_language_interpretation",
-        "newId": "american_sign_language_interpretation"
-      },
-      {
-        "oldId": "fish_jumping_up_cascade",
-        "newId": "fish_jumping_above_cascade"
       },
       {
         "oldId": "golf_green",
@@ -20800,1069 +20530,6 @@
       {
         "oldId": "chopsticks_crossed",
         "newId": "crossed_chopsticks"
-      },
-      {
-        "oldId": "gate_tall",
-        "newId": "tall_gate"
-      },
-      {
-        "oldId": "plus_squat",
-        "newId": "wide_plus"
-      },
-      {
-        "oldId": "winding_way_wide",
-        "newId": "wide_winding_way"
-      },
-      {
-        "oldId": "winding_way_narrow",
-        "newId": "narrow_winding_way"
-      },
-      {
-        "oldId": "arrow_up",
-        "newId": "arrow_up",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "arrow_down",
-        "newId": "arrow_down",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "arrow_left",
-        "newId": "arrow_left",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "arrow_right",
-        "newId": "arrow_right",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "newId": "three_chevrons_right",
-        "by": "@quincylvania",
-        "inspo": "three_chevrons_right_above_conveyor_belt"
-      },
-      {
-        "oldId": "conveyor_with_chevrons_right",
-        "newId": "three_chevrons_right_above_conveyor_belt",
-        "edit": "resize",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "arrow_top_right",
-        "newId": "arrow_top_right",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "arrow_bottom_right",
-        "newId": "arrow_bottom_right",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "arrow_bottom_right_to_eight_point_asterisk",
-        "newId": "arrow_bottom_right_to_eight_point_asterisk",
-        "edit": "minor",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "arrow_top_left",
-        "newId": "arrow_top_left",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "arrow_bottom_left",
-        "newId": "arrow_bottom_left",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "arrows_left_right",
-        "newId": "arrows_left_right",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "arrows_left_right_above_water",
-        "newId": "arrows_left_right_above_water",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "arrows_left_right_above_waters",
-        "newId": "arrows_left_right_above_waters",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "newId": "arrow_right_above_arrow_left",
-        "by": "@quincylvania",
-        "inspo": [
-          "arrow_right",
-          "arrow_left"
-        ]
-      },
-      {
-        "newId": "arrow_up_beside_arrow_down",
-        "by": "@quincylvania",
-        "inspo": "arrow_right_above_arrow_left"
-      },
-      {
-        "newId": "arrows_up_down",
-        "by": "@quincylvania",
-        "inspo": "arrows_left_right"
-      },
-      {
-        "oldId": "arrows_up_down_in_left_right_brackets",
-        "newId": "arrows_up_down_in_left_right_brackets",
-        "by": "@quincylvania",
-        "inspo": "arrows_up_down",
-        "issue": "337"
-      },
-      {
-        "newId": "arrows_top_left_bottom_right",
-        "by": "@quincylvania",
-        "inspo": "arrows_left_right"
-      },
-      {
-        "newId": "arrows_bottom_left_top_right",
-        "by": "@quincylvania",
-        "inspo": "arrows_left_right"
-      },
-      {
-        "newId": "arrow_bottom_right_beside_arrow_bottom_left_above_arrow_top_right_beside_arrow_top_left",
-        "by": "@quincylvania",
-        "inspo": [
-          "arrow_bottom_right",
-          "arrow_bottom_left",
-          "arrow_top_right",
-          "arrow_top_left"
-        ]
-      },
-      {
-        "newId": "arrow_down_above_arrow_right_beside_arrow_left_above_arrow_up",
-        "by": "@quincylvania",
-        "inspo": [
-          "arrow_down",
-          "arrow_right",
-          "arrow_left",
-          "arrow_up"
-        ]
-      },
-      {
-        "newId": "arrow_top_left_beside_arrow_top_right_above_arrow_bottom_left_beside_arrow_bottom_right",
-        "by": "@quincylvania",
-        "inspo": [
-          "arrow_top_left",
-          "arrow_top_right",
-          "arrow_bottom_left",
-          "arrow_bottom_right"
-        ]
-      },
-      {
-        "newId": "arrows_top_left_bottom_right_bottom_left_top_right",
-        "by": "@quincylvania",
-        "inspo": [
-          "arrows_top_left_bottom_right",
-          "arrows_bottom_left_top_right"
-        ]
-      },
-      {
-        "newId": "arrow_up_above_arrow_left_beside_arrow_right_above_arrow_down",
-        "by": "@quincylvania",
-        "inspo": [
-          "arrow_up",
-          "arrow_left",
-          "arrow_right",
-          "arrow_down"
-        ]
-      },
-      {
-        "newId": "arrows_up_down_left_right",
-        "by": "@quincylvania",
-        "inspo": [
-          "arrows_up_down",
-          "arrows_left_right"
-        ]
-      },
-      {
-        "oldId": "arrow_up_from_down_bracket",
-        "newId": "arrow_up_from_down_bracket",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "arrow_down_from_up_bracket",
-        "newId": "arrow_down_from_up_bracket",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "arrow_left_from_right_bracket",
-        "newId": "arrow_left_from_right_bracket",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "arrow_right_from_left_bracket",
-        "newId": "arrow_right_from_left_bracket",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "arrow_up_to_up_bracket",
-        "newId": "arrow_up_to_up_bracket",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "arrow_down_to_down_bracket",
-        "newId": "arrow_down_to_down_bracket",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "arrow_left_to_left_bracket",
-        "newId": "arrow_left_to_left_bracket",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "arrow_right_to_right_bracket",
-        "newId": "arrow_right_to_right_bracket",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "arrow_up_to_banknote_in_slot",
-        "newId": "arrow_up_to_banknote_in_slot",
-        "edit": "minor",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "arrow_up_to_book_with_bookmark_in_slot",
-        "newId": "arrow_up_to_book_with_bookmark_in_slot",
-        "edit": "minor",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "arrow_up_to_envelope_in_slot",
-        "newId": "arrow_up_to_envelope_in_slot",
-        "edit": "minor",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "arrow_up_to_payment_card_in_slot",
-        "newId": "arrow_up_to_payment_card_in_slot",
-        "edit": "minor",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "arrow_up_to_ticket_in_slot",
-        "newId": "arrow_up_to_ticket_in_slot",
-        "edit": "minor",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "arrow_down_from_banknote_in_slot",
-        "newId": "arrow_down_from_banknote_in_slot",
-        "edit": "minor",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "arrow_down_from_book_with_bookmark_in_slot",
-        "newId": "arrow_down_from_book_with_bookmark_in_slot",
-        "edit": "minor",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "arrow_down_from_envelope_in_slot",
-        "newId": "arrow_down_from_envelope_in_slot",
-        "edit": "minor",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "arrow_down_from_payment_card_in_slot",
-        "newId": "arrow_down_from_payment_card_in_slot",
-        "edit": "minor",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "arrow_down_from_ticket_in_slot",
-        "newId": "arrow_down_from_ticket_in_slot",
-        "edit": "minor",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "p_wide_with_arrow_right",
-        "newId": "p_wide_with_arrow_right",
-        "edit": "minor",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "p_wide_with_arrow_bottom_right",
-        "newId": "p_wide_with_arrow_bottom_right",
-        "edit": "minor",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "newId": "p_wide_and_arrow_down",
-        "by": "@quincylvania",
-        "inspo": "p_wide_with_arrow_bottom_right"
-      },
-      {
-        "oldId": "e_wide_with_arrow_right",
-        "newId": "e_wide_with_arrow_right",
-        "edit": "minor",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "e_wide_with_arrow_bottom_right",
-        "newId": "e_wide_with_arrow_bottom_right",
-        "edit": "minor",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "newId": "e_wide_and_arrow_down",
-        "by": "@quincylvania",
-        "inspo": "p_wide_and_arrow_down"
-      },
-      {
-        "oldId": "flush_curb_with_arrow_right",
-        "newId": "flush_curb_with_arrow_right",
-        "edit": "minor",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "rolled_curb_with_arrow_bottom_right",
-        "newId": "rolled_curb_with_arrow_bottom_right",
-        "edit": "minor",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "lowered_curb_with_arrow_bottom_right",
-        "newId": "lowered_curb_with_arrow_bottom_right",
-        "edit": "minor",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "raised_curb_with_arrow_down",
-        "newId": "raised_curb_with_arrow_down",
-        "edit": "minor",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "chicane_arrow",
-        "newId": "chicane_arrow_up",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "dot_outline",
-        "newId": "dot_outline",
-        "edit": "resize",
-        "by": "@quincylvania"
-      },
-      {
-        "oldId": "circle",
-        "newId": "circle",
-        "edit": "resize",
-        "by": "@quincylvania"
-      },
-      {
-        "oldId": "circle_with_dot",
-        "newId": "circle_with_dot",
-        "edit": "resize",
-        "by": "@quincylvania"
-      },
-      {
-        "oldId": "circle_with_dot_outline",
-        "newId": "circle_with_dot_outline",
-        "edit": "resize",
-        "by": "@quincylvania"
-      },
-      {
-        "oldId": "circle_outline",
-        "newId": "circle_outline",
-        "edit": "resize",
-        "by": "@quincylvania"
-      },
-      {
-        "oldId": "circle_outline_with_star",
-        "newId": "circle_outline_with_star",
-        "edit": "resize",
-        "by": "@quincylvania"
-      },
-      {
-        "oldId": "circle_outline_with_top_left_quarter_and_bottom_right_quarter",
-        "newId": "circle_outline_with_top_left_quarter_and_bottom_right_quarter",
-        "edit": "resize",
-        "by": "@quincylvania"
-      },
-      {
-        "oldId": "circle_outline_with_dot",
-        "newId": "circle_outline_with_dot",
-        "edit": "resize",
-        "by": "@quincylvania"
-      },
-      {
-        "oldId": "circle_outline_with_dot_outline",
-        "newId": "circle_outline_with_dot_outline",
-        "edit": "resize",
-        "by": "@quincylvania"
-      },
-      {
-        "oldId": "circle_with_fallout_shelter_symbol",
-        "newId": "circle_with_fallout_shelter_symbol",
-        "edit": "resize",
-        "by": "@quincylvania"
-      },
-      {
-        "oldId": "no_entry",
-        "newId": "circle_with_horizontal_bar"
-      },
-      {
-        "newId": "circle_with_vertical_bar",
-        "by": "@quincylvania",
-        "inspo": "circle_with_horizontal_bar"
-      },
-      {
-        "newId": "triangle_up",
-        "by": "@quincylvania",
-        "inspo": "rounded_triangle_up",
-        "issue": "451"
-      },
-      {
-        "newId": "triangle_up_with_plus",
-        "by": "@quincylvania",
-        "inspo": "triangle_up"
-      },
-      {
-        "newId": "triangle_down",
-        "by": "@quincylvania",
-        "inspo": "triangle_up",
-        "issue": "451"
-      },
-      {
-        "newId": "triangle_down_with_plus",
-        "by": "@quincylvania",
-        "inspo": "triangle_down"
-      },
-      {
-        "newId": "triangle_left",
-        "by": "@quincylvania",
-        "inspo": "triangle_up",
-        "issue": "451"
-      },
-      {
-        "newId": "triangle_left_with_plus",
-        "by": "@quincylvania",
-        "inspo": "triangle_left"
-      },
-      {
-        "newId": "triangle_right",
-        "by": "@quincylvania",
-        "inspo": "triangle_up",
-        "issue": "451"
-      },
-      {
-        "newId": "triangle_right_with_plus",
-        "by": "@quincylvania",
-        "inspo": "triangle_right"
-      },
-      {
-        "newId": "triangle_up_outline",
-        "by": "@quincylvania",
-        "inspo": "triangle_up"
-      },
-      {
-        "newId": "triangle_down_outline",
-        "by": "@quincylvania",
-        "inspo": "triangle_down"
-      },
-      {
-        "newId": "triangle_left_outline",
-        "by": "@quincylvania",
-        "inspo": "triangle_left"
-      },
-      {
-        "newId": "triangle_right_outline",
-        "by": "@quincylvania",
-        "inspo": "triangle_right"
-      },
-      {
-        "oldId": "triangle_up",
-        "newId": "rounded_triangle_up",
-        "edit": "resize",
-        "by": "@quincylvania",
-        "issue": "451"
-      },
-      {
-        "oldId": "triangle_up_with_exclamation_point",
-        "newId": "rounded_triangle_up_with_exclamation_point",
-        "edit": "resize",
-        "by": "@quincylvania",
-        "issue": "451"
-      },
-      {
-        "newId": "rounded_triangle_up_with_question_mark",
-        "by": "@quincylvania",
-        "inspo": "rounded_triangle_up_with_exclamation_point",
-        "issue": "383"
-      },
-      {
-        "oldId": "triangle_up_with_skull",
-        "newId": "rounded_triangle_up_with_skull",
-        "edit": "resize",
-        "by": "@quincylvania",
-        "issue": "451"
-      },
-      {
-        "oldId": "triangle_up_outline",
-        "newId": "rounded_triangle_up_outline",
-        "edit": "resize",
-        "by": "@quincylvania",
-        "issue": "451"
-      },
-      {
-        "oldId": "triangle_down",
-        "newId": "rounded_triangle_down",
-        "edit": "resize",
-        "by": "@quincylvania",
-        "issue": "451"
-      },
-      {
-        "oldId": "triangle_down_outline",
-        "newId": "rounded_triangle_down_outline",
-        "edit": "resize",
-        "by": "@quincylvania",
-        "issue": "451"
-      },
-      {
-        "oldId": "triangle_down_squat",
-        "newId": "wide_rounded_triangle_down",
-        "issue": "451"
-      },
-      {
-        "newId": "rounded_triangle_left",
-        "by": "@quincylvania",
-        "inspo": "rounded_triangle_up"
-      },
-      {
-        "newId": "rounded_triangle_right",
-        "by": "@quincylvania",
-        "inspo": "rounded_triangle_up"
-      },
-      {
-        "newId": "rounded_triangle_left_outline",
-        "by": "@quincylvania",
-        "inspo": "rounded_triangle_up_outline"
-      },
-      {
-        "newId": "rounded_triangle_right_outline",
-        "by": "@quincylvania",
-        "inspo": "rounded_triangle_up_outline"
-      },
-      {
-        "newId": "square",
-        "by": "@quincylvania",
-        "inspo": "rounded_square",
-        "issue": "451"
-      },
-      {
-        "newId": "square_with_dot",
-        "by": "@quincylvania",
-        "inspo": "rounded_square_with_dot",
-        "issue": "451"
-      },
-      {
-        "newId": "square_with_square_dot",
-        "by": "@quincylvania",
-        "inspo": "rounded_square_with_square_dot",
-        "issue": "451"
-      },
-      {
-        "newId": "square_outline",
-        "by": "@quincylvania",
-        "inspo": "rounded_square_outline",
-        "issue": "451"
-      },
-      {
-        "newId": "square_outline_with_dot",
-        "by": "@quincylvania",
-        "inspo": [
-          "square_with_dot",
-          "square_outline"
-        ]
-      },
-      {
-        "newId": "square_outline_with_square_dot",
-        "by": "@quincylvania",
-        "inspo": [
-          "rounded_square_with_square_dot",
-          "square_outline"
-        ]
-      },
-      {
-        "oldId": "square",
-        "newId": "rounded_square",
-        "edit": "resize",
-        "by": "@quincylvania",
-        "issue": "451"
-      },
-      {
-        "oldId": "square_with_dot",
-        "newId": "rounded_square_with_dot",
-        "edit": "resize",
-        "by": "@quincylvania",
-        "issue": "451"
-      },
-      {
-        "oldId": "square_with_square_dot",
-        "newId": "rounded_square_with_square_dot",
-        "edit": "resize",
-        "by": "@quincylvania",
-        "issue": "451"
-      },
-      {
-        "oldId": "square_outline",
-        "newId": "rounded_square_outline",
-        "edit": "resize",
-        "by": "@quincylvania",
-        "issue": "451"
-      },
-      {
-        "newId": "rounded_square_outline_with_dot",
-        "by": "@quincylvania",
-        "inspo": [
-          "rounded_square_with_dot",
-          "rounded_square_outline"
-        ]
-      },
-      {
-        "newId": "rounded_square_outline_with_square_dot",
-        "by": "@quincylvania",
-        "inspo": [
-          "rounded_square_with_square_dot",
-          "rounded_square_outline"
-        ]
-      },
-      {
-        "oldId": "ethernet_port_in_square",
-        "newId": "ethernet_port_in_rounded_square",
-        "issue": "451"
-      },
-      {
-        "oldId": "arrow_top_right_from_square_outline",
-        "newId": "arrow_top_right_from_rounded_square_outline",
-        "by": "@quincylvania",
-        "issue": [
-          "451",
-          "337"
-        ]
-      },
-      {
-        "newId": "arrow_top_right_from_square_outline",
-        "by": "@quincylvania",
-        "inspo": "arrow_top_right_from_rounded_square_outline",
-        "issue": "451"
-      },
-      {
-        "newId": "horizontal_bar",
-        "by": "@quincylvania",
-        "inspo": "circle_with_horizontal_bar"
-      },
-      {
-        "newId": "vertical_bar",
-        "by": "@quincylvania",
-        "inspo": "horizontal_bar"
-      },
-      {
-        "newId": "wide_rectangle",
-        "by": "@quincylvania",
-        "inspo": "wide_rounded_rectangle",
-        "issue": "451"
-      },
-      {
-        "newId": "wide_rectangle_outline",
-        "by": "@quincylvania",
-        "inspo": "wide_rectangle",
-        "issue": "451"
-      },
-      {
-        "newId": "tall_rectangle",
-        "by": "@quincylvania",
-        "inspo": "wide_rectangle",
-        "issue": "451"
-      },
-      {
-        "newId": "tall_rectangle_outline",
-        "by": "@quincylvania",
-        "inspo": "tall_rectangle",
-        "issue": "451"
-      },
-      {
-        "newId": "two_tall_rectangles_top_left",
-        "by": "@quincylvania",
-        "inspo": "tall_rectangle"
-      },
-      {
-        "newId": "two_tall_rectangles_top_right",
-        "by": "@quincylvania",
-        "inspo": "tall_rectangle"
-      },
-      {
-        "newId": "three_tall_rectangles_left",
-        "by": "@quincylvania",
-        "inspo": "tall_rectangle"
-      },
-      {
-        "newId": "three_tall_rectangles_right",
-        "by": "@quincylvania",
-        "inspo": "tall_rectangle"
-      },
-      {
-        "newId": "three_tall_rectangles_up",
-        "by": "@quincylvania",
-        "inspo": "tall_rectangle"
-      },
-      {
-        "newId": "three_tall_rectangles_down",
-        "by": "@quincylvania",
-        "inspo": "tall_rectangle"
-      },
-      {
-        "newId": "cairn_and_tall_rectangle",
-        "by": "@quincylvania",
-        "inspo": [
-          "cairn",
-          "tall_rectangle"
-        ]
-      },
-      {
-        "newId": "cairn_and_two_tall_rectangles_top_left",
-        "by": "@quincylvania",
-        "inspo": [
-          "cairn",
-          "two_tall_rectangles_top_left"
-        ]
-      },
-      {
-        "newId": "cairn_and_two_tall_rectangles_top_right",
-        "by": "@quincylvania",
-        "inspo": [
-          "cairn",
-          "two_tall_rectangles_top_right"
-        ]
-      },
-      {
-        "newId": "cairn_and_three_tall_rectangles_left",
-        "by": "@quincylvania",
-        "inspo": [
-          "cairn",
-          "three_tall_rectangles_left"
-        ]
-      },
-      {
-        "newId": "cairn_and_three_tall_rectangles_right",
-        "by": "@quincylvania",
-        "inspo": [
-          "cairn",
-          "three_tall_rectangles_right"
-        ]
-      },
-      {
-        "newId": "cairn_and_three_tall_rectangles_up",
-        "by": "@quincylvania",
-        "inspo": [
-          "cairn",
-          "three_tall_rectangles_up"
-        ]
-      },
-      {
-        "newId": "cairn_and_three_tall_rectangles_down",
-        "by": "@quincylvania",
-        "inspo": [
-          "cairn",
-          "three_tall_rectangles_down"
-        ]
-      },
-      {
-        "oldId": "cairn",
-        "newId": "cairn",
-        "edit": "resize",
-        "by": "@quincylvania"
-      },
-      {
-        "oldId": "rectangle",
-        "newId": "wide_rounded_rectangle",
-        "edit": "resize",
-        "by": "@quincylvania",
-        "issue": "451"
-      },
-      {
-        "oldId": "rectangle_outline",
-        "newId": "wide_rounded_rectangle_outline",
-        "edit": "resize",
-        "by": "@quincylvania",
-        "issue": "451"
-      },
-      {
-        "oldId": "rectangle_tall",
-        "newId": "tall_rounded_rectangle",
-        "edit": "resize",
-        "by": "@quincylvania",
-        "issue": "451"
-      },
-      {
-        "oldId": "rectangle_tall_outline",
-        "newId": "tall_rounded_rectangle_outline",
-        "edit": "resize",
-        "by": "@quincylvania",
-        "issue": "451"
-      },
-      {
-        "oldId": "arrow_up_from_rectangle_outline",
-        "newId": "arrow_up_from_wide_rectangle_outline",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "arrow_down_from_rectangle_outline",
-        "newId": "arrow_down_from_wide_rectangle_outline",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "arrow_up_to_rectangle_outline",
-        "newId": "arrow_up_to_wide_rectangle_outline",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "arrow_down_to_rectangle_outline",
-        "newId": "arrow_down_to_wide_rectangle_outline",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "arrow_left_from_rectangle_tall_outline",
-        "newId": "arrow_left_from_tall_rectangle_outline",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "arrow_right_from_rectangle_tall_outline",
-        "newId": "arrow_right_from_tall_rectangle_outline",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "arrow_left_to_rectangle_tall_outline",
-        "newId": "arrow_left_to_tall_rectangle_outline",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "arrow_right_to_rectangle_tall_outline",
-        "newId": "arrow_right_to_tall_rectangle_outline",
-        "by": "@quincylvania",
-        "issue": "337"
-      },
-      {
-        "oldId": "triangles_left_right_in_rectangle",
-        "newId": "triangles_left_right_in_wide_rounded_rectangle",
-        "issue": "451"
-      },
-      {
-        "oldId": "triangles_left_right_in_rectangle_outline",
-        "newId": "triangles_left_right_in_wide_rounded_rectangle_outline",
-        "issue": "451"
-      },
-      {
-        "oldId": "triangles_up_down_in_rectangle",
-        "newId": "triangles_up_down_in_tall_rounded_rectangle",
-        "issue": "451"
-      },
-      {
-        "oldId": "triangles_up_down_in_rectangle_outline",
-        "newId": "triangles_up_down_in_tall_rounded_rectangle_outline",
-        "issue": "451"
-      },
-      {
-        "oldId": "quay",
-        "newId": "tall_rectangle_beside_waters",
-        "by": "@quincylvania",
-        "issue": "135"
-      },
-      {
-        "oldId": "diamond",
-        "newId": "rounded_diamond",
-        "issue": "451"
-      },
-      {
-        "oldId": "diamond_outline",
-        "newId": "rounded_diamond_outline",
-        "issue": "451"
-      },
-      {
-        "oldId": "diamond_tall",
-        "newId": "tall_rounded_diamond",
-        "issue": "451"
-      },
-      {
-        "oldId": "diamond_tall_outline",
-        "newId": "tall_rounded_diamond_outline",
-        "issue": "451"
-      },
-      {
-        "oldId": "double_diamond_tall",
-        "newId": "tall_rounded_double_diamond",
-        "issue": "451"
-      },
-      {
-        "oldId": "isosceles_trapezoid_tall_down",
-        "newId": "tall_isosceles_trapezoid_down"
-      },
-      {
-        "oldId": "isosceles_trapezoid_tall_up",
-        "newId": "tall_isosceles_trapezoid_up"
-      },
-      {
-        "oldId": "parallelogram_tall_left",
-        "newId": "tall_parallelogram_left"
-      },
-      {
-        "oldId": "parallelogram_tall_right",
-        "newId": "tall_parallelogram_right"
-      },
-      {
-        "oldId": "chevron_up_tall",
-        "newId": "tall_chevron_up"
-      },
-      {
-        "oldId": "chevron_up_tall_outline",
-        "newId": "tall_chevron_up_outline"
-      },
-      {
-        "oldId": "octagon",
-        "newId": "octagon",
-        "edit": "resize",
-        "by": "@quincylvania"
-      },
-      {
-        "oldId": "octagon_outline",
-        "newId": "octagon_outline",
-        "edit": "resize",
-        "by": "@quincylvania"
-      },
-      {
-        "newId": "pixel_international_wheelchair_symbol",
-        "by": "@quincylvania",
-        "inspo": "international_wheelchair_symbol"
-      },
-      {
-        "newId": "pixel_palm_tree",
-        "by": "@quincylvania",
-        "inspo": "palm_tree"
-      },
-      {
-        "newId": "pixel_canoe",
-        "by": "@quincylvania",
-        "inspo": "canoe"
-      },
-      {
-        "newId": "pixel_canoe_on_water",
-        "by": "@quincylvania",
-        "inspo": "canoe_on_water"
-      },
-      {
-        "newId": "pixel_arrows_left_right",
-        "by": "@quincylvania",
-        "inspo": "pixel_arrows_left_right_above_water"
-      },
-      {
-        "newId": "pixel_arrows_up_down",
-        "by": "@quincylvania",
-        "inspo": "pixel_arrows_left_right"
-      },
-      {
-        "newId": "pixel_arrow_up",
-        "by": "@quincylvania",
-        "inspo": [
-          "pixel_arrows_up_down",
-          "arrow_up"
-        ]
-      },
-      {
-        "newId": "pixel_arrow_down",
-        "by": "@quincylvania",
-        "inspo": [
-          "pixel_arrows_up_down",
-          "arrow_down"
-        ]
-      },
-      {
-        "newId": "pixel_arrow_left",
-        "by": "@quincylvania",
-        "inspo": [
-          "pixel_arrows_left_right",
-          "arrow_left"
-        ]
-      },
-      {
-        "newId": "pixel_arrow_right",
-        "by": "@quincylvania",
-        "inspo": [
-          "pixel_arrows_left_right",
-          "arrow_right"
-        ]
-      },
-      {
-        "newId": "pixel_arrow_top_right",
-        "by": "@quincylvania",
-        "inspo": "arrow_top_right"
-      },
-      {
-        "newId": "pixel_arrow_bottom_right",
-        "by": "@quincylvania",
-        "inspo": "arrow_bottom_right"
-      },
-      {
-        "newId": "pixel_arrow_bottom_left",
-        "by": "@quincylvania",
-        "inspo": "arrow_bottom_left"
-      },
-      {
-        "newId": "pixel_arrow_top_left",
-        "by": "@quincylvania",
-        "inspo": "arrow_top_left"
       }
     ]
   }
